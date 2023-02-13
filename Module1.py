@@ -1,0 +1,2 @@
+x = "habiba"
+print(x)
