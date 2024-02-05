@@ -1,5 +1,5 @@
 from skimage import data, filters, feature
-from skimage.viewer import ImageViewer
+# from skimage.viewer import ImageViewer
 import numpy as np
 import scipy
 import matplotlib.pyplot as plt
