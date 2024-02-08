@@ -4,7 +4,7 @@ from skimage import io
 import matplotlib.pyplot as plt
 import numpy as np
 
-image = io.imread("2023\images\phote1.jpg")
+image = io.imread("old\images\phote1.jpg")
 
 hsv_image = skimage.color.rgb2hsv(image)
 histogram_array_filtered = []
