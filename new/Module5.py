@@ -38,9 +38,11 @@ clf.fit(X,y)
 goodCounter = 0
 for i in range(predictRange):
     prediction = clf.predict([predict[i]])
-    print(i,prediction, predictLabel[i])
+    # print(i,prediction, predictLabel[i])
     if prediction == predictLabel[i]:
         goodCounter += 1
+    else:
+        print("false",(i,prediction, predictLabel[i]))
     # image = predict[i].reshape(8, 8)
     # plt.imshow(image, cmap=plt.cm.gray_r, interpolation='nearest')
     # plt.show()
