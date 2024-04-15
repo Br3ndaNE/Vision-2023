@@ -1,51 +1,56 @@
 import matplotlib.pyplot as plt
 from sklearn import datasets
 from sklearn import svm
-
+import random
 digits = datasets.load_digits()
 
-totalsize = len(digits.data)
-predictLabel = []
-predict = []
-X = []
-y = []
-counter = 1
+counterSwag = 0
+while(counterSwag < 10):
+    totalsize = len(digits.data)
+    predictLabel = []
+    predict = []
+    Random_x = []
+    Random_y = []
+    counter = 1
 
-for i in range(totalsize):
-    if counter == 1 or counter == 2:
-        X.append(digits.data[i])
-        y.append(digits.target[i])
-        counter += 1
-    elif counter == 3:
-        predict.append(digits.data[i])
-        predictLabel.append(digits.target[i])
-        counter = 1
+    #Random
+    indices = list(range(len(digits.data)))
+    random.shuffle(indices)
 
-print(len(digits.data))
-print(len(X))
-print(len(predict))
-predictRange = len(predict)
+    digits.data = [digits.data[i] for i in indices]
+    digits.target = [digits.target[i] for i in indices]
 
-# print(totalsize)
-clf = svm.SVC(gamma=0.001, C=100)
-X,y = X, y
-clf.fit(X,y)
+    #Random
+    for i in range(totalsize):
+        if counter == 1 or counter == 2:
+            Random_x.append(digits.data[i])
+            Random_y.append(digits.target[i])
+            counter += 1
+        elif counter == 3:
+            predict.append(digits.data[i])
+            predictLabel.append(digits.target[i])
+            counter = 1
 
-# print("Predict:")
-# print(clf.predict(digits.data[-5:-4])) #Beetje flauw, maar hij wil perse 2d-array hebben ook als er maar 1 element inzit
-# plt.imshow(digits.images[-5], cmap=plt.cm.gray_r, interpolation='nearest')
-# plt.show()
-goodCounter = 0
-for i in range(predictRange):
-    prediction = clf.predict([predict[i]])
-    # print(i,prediction, predictLabel[i])
-    if prediction == predictLabel[i]:
-        goodCounter += 1
-    else:
-        print("false",(i,prediction, predictLabel[i]))
-    # image = predict[i].reshape(8, 8)
-    # plt.imshow(image, cmap=plt.cm.gray_r, interpolation='nearest')
-    # plt.show()
+    predictRange = len(predict)
 
-percentage = goodCounter / predictRange * 100
-print(percentage,"%")
+    # print(totalsize)
+    clf = svm.SVC(gamma=0.001, C=100)
+    Random_x,Random_y = Random_x, Random_y
+    clf.fit(Random_x,Random_y)
+
+    goodCounter = 0
+    for i in range(predictRange):
+        prediction = clf.predict([predict[i]])
+        # print(i,prediction, predictLabel[i])
+        if prediction == predictLabel[i]:
+            goodCounter += 1
+        # else:
+        #     print("false",(i,prediction, predictLabel[i]))
+        # image = predict[i].reshape(8, 8)
+        # plt.imshow(image, cmap=plt.cm.graRandom_y_r, interpolation='nearest')
+        # plt.show()
+        
+
+    percentage = goodCounter / predictRange * 100
+    counterSwag += 1
+    print(counterSwag,":    ",round(percentage,3),"%")
