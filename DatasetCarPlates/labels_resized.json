@@ -1,0 +1,8229 @@
+{
+    "Cars0": {
+        "size": {
+            "width": "500",
+            "height": "268",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "226",
+            "ymin": "125",
+            "xmax": "419",
+            "ymax": "173"
+        },
+        "bndbox_resized": {
+            "xmin": 271.2,
+            "xmax": 502.79999999999995,
+            "ymin": 186.56716417910448,
+            "ymax": 258.2089552238806
+        }
+    },
+    "Cars1": {
+        "size": {
+            "width": "400",
+            "height": "248",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "134",
+            "ymin": "128",
+            "xmax": "262",
+            "ymax": "160"
+        },
+        "bndbox_resized": {
+            "xmin": 201.0,
+            "xmax": 393.0,
+            "ymin": 206.4516129032258,
+            "ymax": 258.06451612903226
+        }
+    },
+    "Cars10": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "140",
+            "ymin": "5",
+            "xmax": "303",
+            "ymax": "148"
+        },
+        "bndbox_resized": {
+            "xmin": 210.0,
+            "xmax": 454.5,
+            "ymin": 8.88888888888889,
+            "ymax": 263.1111111111111
+        }
+    },
+    "Cars100": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "175",
+            "ymin": "114",
+            "xmax": "214",
+            "ymax": "131"
+        },
+        "bndbox_resized": {
+            "xmin": 262.5,
+            "xmax": 321.0,
+            "ymin": 170.7865168539326,
+            "ymax": 196.2546816479401
+        }
+    },
+    "Cars101": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "167",
+            "ymin": "202",
+            "xmax": "240",
+            "ymax": "220"
+        },
+        "bndbox_resized": {
+            "xmin": 250.5,
+            "xmax": 360.0,
+            "ymin": 269.3333333333333,
+            "ymax": 293.3333333333333
+        }
+    },
+    "Cars102": {
+        "size": {
+            "width": "350",
+            "height": "263",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "66",
+            "ymin": "147",
+            "xmax": "322",
+            "ymax": "199"
+        },
+        "bndbox_resized": {
+            "xmin": 113.14285714285714,
+            "xmax": 552.0,
+            "ymin": 223.574144486692,
+            "ymax": 302.66159695817487
+        }
+    },
+    "Cars103": {
+        "size": {
+            "width": "400",
+            "height": "196",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "189",
+            "ymin": "116",
+            "xmax": "202",
+            "ymax": "121"
+        },
+        "bndbox_resized": {
+            "xmin": 283.5,
+            "xmax": 303.0,
+            "ymin": 236.73469387755102,
+            "ymax": 246.9387755102041
+        }
+    },
+    "Cars104": {
+        "size": {
+            "width": "500",
+            "height": "374",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "195",
+            "ymin": "266",
+            "xmax": "244",
+            "ymax": "282"
+        },
+        "bndbox_resized": {
+            "xmin": 234.0,
+            "xmax": 292.8,
+            "ymin": 284.4919786096257,
+            "ymax": 301.60427807486633
+        }
+    },
+    "Cars105": {
+        "size": {
+            "width": "400",
+            "height": "240",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "152",
+            "ymin": "147",
+            "xmax": "206",
+            "ymax": "159"
+        },
+        "bndbox_resized": {
+            "xmin": 228.0,
+            "xmax": 309.0,
+            "ymin": 245.0,
+            "ymax": 265.0
+        }
+    },
+    "Cars106": {
+        "size": {
+            "width": "400",
+            "height": "247",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "225",
+            "ymin": "194",
+            "xmax": "279",
+            "ymax": "217"
+        },
+        "bndbox_resized": {
+            "xmin": 337.5,
+            "xmax": 418.5,
+            "ymin": 314.17004048582993,
+            "ymax": 351.417004048583
+        }
+    },
+    "Cars107": {
+        "size": {
+            "width": "471",
+            "height": "270",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "141",
+            "ymin": "113",
+            "xmax": "311",
+            "ymax": "164"
+        },
+        "bndbox_resized": {
+            "xmin": 179.61783439490446,
+            "xmax": 396.1783439490446,
+            "ymin": 167.4074074074074,
+            "ymax": 242.96296296296296
+        }
+    },
+    "Cars108": {
+        "size": {
+            "width": "442",
+            "height": "333",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "158",
+            "ymin": "216",
+            "xmax": "277",
+            "ymax": "248"
+        },
+        "bndbox_resized": {
+            "xmin": 214.47963800904978,
+            "xmax": 376.0180995475113,
+            "ymin": 259.4594594594595,
+            "ymax": 297.8978978978979
+        }
+    },
+    "Cars109": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "115",
+            "ymin": "116",
+            "xmax": "278",
+            "ymax": "153"
+        },
+        "bndbox_resized": {
+            "xmin": 172.5,
+            "xmax": 417.0,
+            "ymin": 173.78277153558054,
+            "ymax": 229.21348314606743
+        }
+    },
+    "Cars11": {
+        "size": {
+            "width": "400",
+            "height": "305",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "131",
+            "ymin": "206",
+            "xmax": "273",
+            "ymax": "234"
+        },
+        "bndbox_resized": {
+            "xmin": 196.5,
+            "xmax": 409.5,
+            "ymin": 270.1639344262295,
+            "ymax": 306.88524590163934
+        }
+    },
+    "Cars110": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "286",
+            "ymin": "133",
+            "xmax": "328",
+            "ymax": "159"
+        },
+        "bndbox_resized": {
+            "xmin": 429.0,
+            "xmax": 492.0,
+            "ymin": 199.25093632958803,
+            "ymax": 238.20224719101125
+        }
+    },
+    "Cars111": {
+        "size": {
+            "width": "600",
+            "height": "338",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "319",
+            "ymin": "165",
+            "xmax": "478",
+            "ymax": "204"
+        },
+        "bndbox_resized": {
+            "xmin": 319.0,
+            "xmax": 478.0,
+            "ymin": 195.2662721893491,
+            "ymax": 241.42011834319527
+        }
+    },
+    "Cars112": {
+        "size": {
+            "width": "240",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "49",
+            "ymin": "135",
+            "xmax": "164",
+            "ymax": "191"
+        },
+        "bndbox_resized": {
+            "xmin": 122.5,
+            "xmax": 410.0,
+            "ymin": 135.0,
+            "ymax": 191.0
+        }
+    },
+    "Cars113": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "151",
+            "ymin": "113",
+            "xmax": "306",
+            "ymax": "180"
+        },
+        "bndbox_resized": {
+            "xmin": 226.5,
+            "xmax": 459.0,
+            "ymin": 150.66666666666666,
+            "ymax": 240.0
+        }
+    },
+    "Cars114": {
+        "size": {
+            "width": "500",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "7",
+            "ymin": "16",
+            "xmax": "493",
+            "ymax": "256"
+        },
+        "bndbox_resized": {
+            "xmin": 8.4,
+            "xmax": 591.6,
+            "ymin": 21.333333333333332,
+            "ymax": 341.3333333333333
+        }
+    },
+    "Cars115": {
+        "size": {
+            "width": "507",
+            "height": "388",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "315",
+            "ymin": "287",
+            "xmax": "407",
+            "ymax": "311"
+        },
+        "bndbox_resized": {
+            "xmin": 372.78106508875743,
+            "xmax": 481.6568047337278,
+            "ymin": 295.8762886597938,
+            "ymax": 320.6185567010309
+        }
+    },
+    "Cars116": {
+        "size": {
+            "width": "400",
+            "height": "332",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "149",
+            "ymin": "218",
+            "xmax": "267",
+            "ymax": "247"
+        },
+        "bndbox_resized": {
+            "xmin": 223.5,
+            "xmax": 400.5,
+            "ymin": 262.65060240963857,
+            "ymax": 297.5903614457832
+        }
+    },
+    "Cars117": {
+        "size": {
+            "width": "400",
+            "height": "185",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "42",
+            "ymin": "126",
+            "xmax": "86",
+            "ymax": "137"
+        },
+        "bndbox_resized": {
+            "xmin": 63.0,
+            "xmax": 129.0,
+            "ymin": 272.43243243243245,
+            "ymax": 296.21621621621625
+        }
+    },
+    "Cars118": {
+        "size": {
+            "width": "600",
+            "height": "375",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "193",
+            "ymin": "165",
+            "xmax": "394",
+            "ymax": "217"
+        },
+        "bndbox_resized": {
+            "xmin": 193.0,
+            "xmax": 394.0,
+            "ymin": 176.0,
+            "ymax": 231.46666666666667
+        }
+    },
+    "Cars119": {
+        "size": {
+            "width": "400",
+            "height": "247",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "187",
+            "ymin": "140",
+            "xmax": "217",
+            "ymax": "153"
+        },
+        "bndbox_resized": {
+            "xmin": 280.5,
+            "xmax": 325.5,
+            "ymin": 226.72064777327935,
+            "ymax": 247.77327935222672
+        }
+    },
+    "Cars12": {
+        "size": {
+            "width": "400",
+            "height": "141",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "122",
+            "ymin": "82",
+            "xmax": "277",
+            "ymax": "117"
+        },
+        "bndbox_resized": {
+            "xmin": 183.0,
+            "xmax": 415.5,
+            "ymin": 232.62411347517732,
+            "ymax": 331.9148936170213
+        }
+    },
+    "Cars120": {
+        "size": {
+            "width": "400",
+            "height": "265",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "159",
+            "ymin": "178",
+            "xmax": "250",
+            "ymax": "200"
+        },
+        "bndbox_resized": {
+            "xmin": 238.5,
+            "xmax": 375.0,
+            "ymin": 268.6792452830189,
+            "ymax": 301.8867924528302
+        }
+    },
+    "Cars121": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "336",
+            "ymin": "192",
+            "xmax": "357",
+            "ymax": "204"
+        },
+        "bndbox_resized": {
+            "xmin": 504.0,
+            "xmax": 535.5,
+            "ymin": 256.0,
+            "ymax": 272.0
+        }
+    },
+    "Cars122": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "195",
+            "ymin": "147",
+            "xmax": "254",
+            "ymax": "169"
+        },
+        "bndbox_resized": {
+            "xmin": 292.5,
+            "xmax": 381.0,
+            "ymin": 196.0,
+            "ymax": 225.33333333333331
+        }
+    },
+    "Cars123": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "159",
+            "ymin": "221",
+            "xmax": "237",
+            "ymax": "242"
+        },
+        "bndbox_resized": {
+            "xmin": 238.5,
+            "xmax": 355.5,
+            "ymin": 294.66666666666663,
+            "ymax": 322.66666666666663
+        }
+    },
+    "Cars124": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "305",
+            "ymin": "256",
+            "xmax": "320",
+            "ymax": "267"
+        },
+        "bndbox_resized": {
+            "xmin": 457.5,
+            "xmax": 480.0,
+            "ymin": 383.52059925093636,
+            "ymax": 400.0
+        }
+    },
+    "Cars125": {
+        "size": {
+            "width": "400",
+            "height": "260",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "280",
+            "ymin": "196",
+            "xmax": "355",
+            "ymax": "257"
+        },
+        "bndbox_resized": {
+            "xmin": 420.0,
+            "xmax": 532.5,
+            "ymin": 301.53846153846155,
+            "ymax": 395.3846153846154
+        }
+    },
+    "Cars126": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "103",
+            "ymin": "99",
+            "xmax": "293",
+            "ymax": "201"
+        },
+        "bndbox_resized": {
+            "xmin": 154.5,
+            "xmax": 439.5,
+            "ymin": 132.0,
+            "ymax": 268.0
+        }
+    },
+    "Cars127": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "360",
+            "ymin": "166",
+            "xmax": "383",
+            "ymax": "181"
+        },
+        "bndbox_resized": {
+            "xmin": 540.0,
+            "xmax": 574.5,
+            "ymin": 248.68913857677904,
+            "ymax": 271.1610486891386
+        }
+    },
+    "Cars128": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "112",
+            "ymin": "65",
+            "xmax": "306",
+            "ymax": "173"
+        },
+        "bndbox_resized": {
+            "xmin": 168.0,
+            "xmax": 459.0,
+            "ymin": 115.55555555555554,
+            "ymax": 307.55555555555554
+        }
+    },
+    "Cars129": {
+        "size": {
+            "width": "530",
+            "height": "398",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "204",
+            "ymin": "213",
+            "xmax": "282",
+            "ymax": "267"
+        },
+        "bndbox_resized": {
+            "xmin": 230.94339622641508,
+            "xmax": 319.2452830188679,
+            "ymin": 214.07035175879395,
+            "ymax": 268.34170854271355
+        }
+    },
+    "Cars13": {
+        "size": {
+            "width": "400",
+            "height": "268",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "191",
+            "ymin": "147",
+            "xmax": "242",
+            "ymax": "169"
+        },
+        "bndbox_resized": {
+            "xmin": 286.5,
+            "xmax": 363.0,
+            "ymin": 219.40298507462688,
+            "ymax": 252.23880597014926
+        }
+    },
+    "Cars130": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "91",
+            "ymin": "110",
+            "xmax": "166",
+            "ymax": "140"
+        },
+        "bndbox_resized": {
+            "xmin": 136.5,
+            "xmax": 249.0,
+            "ymin": 164.79400749063672,
+            "ymax": 209.73782771535582
+        }
+    },
+    "Cars131": {
+        "size": {
+            "width": "500",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "19",
+            "ymin": "29",
+            "xmax": "497",
+            "ymax": "245"
+        },
+        "bndbox_resized": {
+            "xmin": 22.8,
+            "xmax": 596.4,
+            "ymin": 38.666666666666664,
+            "ymax": 326.66666666666663
+        }
+    },
+    "Cars132": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "378",
+            "ymin": "188",
+            "xmax": "400",
+            "ymax": "200"
+        },
+        "bndbox_resized": {
+            "xmin": 567.0,
+            "xmax": 600.0,
+            "ymin": 334.22222222222223,
+            "ymax": 355.55555555555554
+        }
+    },
+    "Cars133": {
+        "size": {
+            "width": "600",
+            "height": "411",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "247",
+            "ymin": "185",
+            "xmax": "375",
+            "ymax": "223"
+        },
+        "bndbox_resized": {
+            "xmin": 247.0,
+            "xmax": 375.0,
+            "ymin": 180.04866180048663,
+            "ymax": 217.0316301703163
+        }
+    },
+    "Cars134": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "76",
+            "ymin": "151",
+            "xmax": "133",
+            "ymax": "174"
+        },
+        "bndbox_resized": {
+            "xmin": 114.0,
+            "xmax": 199.5,
+            "ymin": 226.2172284644195,
+            "ymax": 260.6741573033708
+        }
+    },
+    "Cars135": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "260",
+            "ymin": "184",
+            "xmax": "319",
+            "ymax": "211"
+        },
+        "bndbox_resized": {
+            "xmin": 390.0,
+            "xmax": 478.5,
+            "ymin": 327.1111111111111,
+            "ymax": 375.1111111111111
+        }
+    },
+    "Cars136": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "164",
+            "ymin": "104",
+            "xmax": "245",
+            "ymax": "119"
+        },
+        "bndbox_resized": {
+            "xmin": 246.0,
+            "xmax": 367.5,
+            "ymin": 155.8052434456929,
+            "ymax": 178.27715355805245
+        }
+    },
+    "Cars137": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "178",
+            "ymin": "181",
+            "xmax": "204",
+            "ymax": "191"
+        },
+        "bndbox_resized": {
+            "xmin": 267.0,
+            "xmax": 306.0,
+            "ymin": 271.1610486891386,
+            "ymax": 286.14232209737827
+        }
+    },
+    "Cars138": {
+        "size": {
+            "width": "400",
+            "height": "301",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "153",
+            "ymin": "141",
+            "xmax": "254",
+            "ymax": "185"
+        },
+        "bndbox_resized": {
+            "xmin": 229.5,
+            "xmax": 381.0,
+            "ymin": 187.37541528239203,
+            "ymax": 245.84717607973423
+        }
+    },
+    "Cars139": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "193",
+            "ymin": "224",
+            "xmax": "231",
+            "ymax": "233"
+        },
+        "bndbox_resized": {
+            "xmin": 289.5,
+            "xmax": 346.5,
+            "ymin": 298.66666666666663,
+            "ymax": 310.66666666666663
+        }
+    },
+    "Cars14": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "94",
+            "ymin": "118",
+            "xmax": "274",
+            "ymax": "163"
+        },
+        "bndbox_resized": {
+            "xmin": 141.0,
+            "xmax": 411.0,
+            "ymin": 209.77777777777777,
+            "ymax": 289.77777777777777
+        }
+    },
+    "Cars140": {
+        "size": {
+            "width": "435",
+            "height": "290",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "283",
+            "ymin": "239",
+            "xmax": "424",
+            "ymax": "286"
+        },
+        "bndbox_resized": {
+            "xmin": 390.3448275862069,
+            "xmax": 584.8275862068966,
+            "ymin": 329.65517241379314,
+            "ymax": 394.4827586206897
+        }
+    },
+    "Cars141": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "266",
+            "ymin": "169",
+            "xmax": "307",
+            "ymax": "188"
+        },
+        "bndbox_resized": {
+            "xmin": 399.0,
+            "xmax": 460.5,
+            "ymin": 253.18352059925095,
+            "ymax": 281.6479400749064
+        }
+    },
+    "Cars142": {
+        "size": {
+            "width": "400",
+            "height": "198",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "178",
+            "ymin": "124",
+            "xmax": "273",
+            "ymax": "144"
+        },
+        "bndbox_resized": {
+            "xmin": 267.0,
+            "xmax": 409.5,
+            "ymin": 250.50505050505052,
+            "ymax": 290.90909090909093
+        }
+    },
+    "Cars143": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "316",
+            "ymin": "195",
+            "xmax": "349",
+            "ymax": "205"
+        },
+        "bndbox_resized": {
+            "xmin": 474.0,
+            "xmax": 523.5,
+            "ymin": 292.13483146067415,
+            "ymax": 307.1161048689139
+        }
+    },
+    "Cars144": {
+        "size": {
+            "width": "320",
+            "height": "260",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "101",
+            "ymin": "114",
+            "xmax": "215",
+            "ymax": "154"
+        },
+        "bndbox_resized": {
+            "xmin": 189.375,
+            "xmax": 403.125,
+            "ymin": 175.3846153846154,
+            "ymax": 236.92307692307693
+        }
+    },
+    "Cars145": {
+        "size": {
+            "width": "435",
+            "height": "290",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "282",
+            "ymin": "236",
+            "xmax": "422",
+            "ymax": "283"
+        },
+        "bndbox_resized": {
+            "xmin": 388.96551724137936,
+            "xmax": 582.0689655172414,
+            "ymin": 325.51724137931035,
+            "ymax": 390.3448275862069
+        }
+    },
+    "Cars146": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "111",
+            "ymin": "194",
+            "xmax": "129",
+            "ymax": "204"
+        },
+        "bndbox_resized": {
+            "xmin": 166.5,
+            "xmax": 193.5,
+            "ymin": 258.66666666666663,
+            "ymax": 272.0
+        }
+    },
+    "Cars147": {
+        "size": {
+            "width": "500",
+            "height": "268",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "226",
+            "ymin": "125",
+            "xmax": "420",
+            "ymax": "169"
+        },
+        "bndbox_resized": {
+            "xmin": 271.2,
+            "xmax": 504.0,
+            "ymin": 186.56716417910448,
+            "ymax": 252.23880597014926
+        }
+    },
+    "Cars148": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "135",
+            "ymin": "134",
+            "xmax": "218",
+            "ymax": "158"
+        },
+        "bndbox_resized": {
+            "xmin": 202.5,
+            "xmax": 327.0,
+            "ymin": 238.2222222222222,
+            "ymax": 280.88888888888886
+        }
+    },
+    "Cars149": {
+        "size": {
+            "width": "400",
+            "height": "281",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "212",
+            "ymin": "182",
+            "xmax": "245",
+            "ymax": "203"
+        },
+        "bndbox_resized": {
+            "xmin": 318.0,
+            "xmax": 367.5,
+            "ymin": 259.0747330960854,
+            "ymax": 288.96797153024914
+        }
+    },
+    "Cars15": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "310",
+            "ymin": "146",
+            "xmax": "372",
+            "ymax": "171"
+        },
+        "bndbox_resized": {
+            "xmin": 465.0,
+            "xmax": 558.0,
+            "ymin": 218.72659176029964,
+            "ymax": 256.17977528089887
+        }
+    },
+    "Cars150": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "122",
+            "ymin": "198",
+            "xmax": "262",
+            "ymax": "232"
+        },
+        "bndbox_resized": {
+            "xmin": 183.0,
+            "xmax": 393.0,
+            "ymin": 264.0,
+            "ymax": 309.3333333333333
+        }
+    },
+    "Cars151": {
+        "size": {
+            "width": "400",
+            "height": "242",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "54",
+            "ymin": "135",
+            "xmax": "120",
+            "ymax": "178"
+        },
+        "bndbox_resized": {
+            "xmin": 81.0,
+            "xmax": 180.0,
+            "ymin": 223.1404958677686,
+            "ymax": 294.21487603305786
+        }
+    },
+    "Cars152": {
+        "size": {
+            "width": "467",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "92",
+            "ymin": "258",
+            "xmax": "199",
+            "ymax": "284"
+        },
+        "bndbox_resized": {
+            "xmin": 118.20128479657387,
+            "xmax": 255.67451820128477,
+            "ymin": 344.0,
+            "ymax": 378.66666666666663
+        }
+    },
+    "Cars153": {
+        "size": {
+            "width": "471",
+            "height": "270",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "146",
+            "ymin": "118",
+            "xmax": "311",
+            "ymax": "170"
+        },
+        "bndbox_resized": {
+            "xmin": 185.98726114649682,
+            "xmax": 396.1783439490446,
+            "ymin": 174.8148148148148,
+            "ymax": 251.85185185185185
+        }
+    },
+    "Cars154": {
+        "size": {
+            "width": "375",
+            "height": "500",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "70",
+            "ymin": "197",
+            "xmax": "264",
+            "ymax": "265"
+        },
+        "bndbox_resized": {
+            "xmin": 112.0,
+            "xmax": 422.40000000000003,
+            "ymin": 157.60000000000002,
+            "ymax": 212.0
+        }
+    },
+    "Cars155": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "150",
+            "ymin": "177",
+            "xmax": "203",
+            "ymax": "190"
+        },
+        "bndbox_resized": {
+            "xmin": 225.0,
+            "xmax": 304.5,
+            "ymin": 265.16853932584274,
+            "ymax": 284.6441947565543
+        }
+    },
+    "Cars156": {
+        "size": {
+            "width": "400",
+            "height": "200",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "114",
+            "ymin": "78",
+            "xmax": "230",
+            "ymax": "102"
+        },
+        "bndbox_resized": {
+            "xmin": 171.0,
+            "xmax": 345.0,
+            "ymin": 156.0,
+            "ymax": 204.0
+        }
+    },
+    "Cars157": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "330",
+            "ymin": "152",
+            "xmax": "366",
+            "ymax": "179"
+        },
+        "bndbox_resized": {
+            "xmin": 495.0,
+            "xmax": 549.0,
+            "ymin": 227.71535580524346,
+            "ymax": 268.1647940074906
+        }
+    },
+    "Cars158": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "97",
+            "ymin": "118",
+            "xmax": "296",
+            "ymax": "210"
+        },
+        "bndbox_resized": {
+            "xmin": 145.5,
+            "xmax": 444.0,
+            "ymin": 157.33333333333331,
+            "ymax": 280.0
+        }
+    },
+    "Cars159": {
+        "size": {
+            "width": "400",
+            "height": "332",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "149",
+            "ymin": "184",
+            "xmax": "261",
+            "ymax": "211"
+        },
+        "bndbox_resized": {
+            "xmin": 223.5,
+            "xmax": 391.5,
+            "ymin": 221.68674698795184,
+            "ymax": 254.21686746987953
+        }
+    },
+    "Cars16": {
+        "size": {
+            "width": "400",
+            "height": "221",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "36",
+            "ymin": "175",
+            "xmax": "62",
+            "ymax": "186"
+        },
+        "bndbox_resized": {
+            "xmin": 54.0,
+            "xmax": 93.0,
+            "ymin": 316.7420814479638,
+            "ymax": 336.65158371040724
+        }
+    },
+    "Cars160": {
+        "size": {
+            "width": "500",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "209",
+            "ymin": "137",
+            "xmax": "281",
+            "ymax": "174"
+        },
+        "bndbox_resized": {
+            "xmin": 250.79999999999998,
+            "xmax": 337.2,
+            "ymin": 182.66666666666666,
+            "ymax": 232.0
+        }
+    },
+    "Cars161": {
+        "size": {
+            "width": "507",
+            "height": "388",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "312",
+            "ymin": "283",
+            "xmax": "406",
+            "ymax": "311"
+        },
+        "bndbox_resized": {
+            "xmin": 369.2307692307692,
+            "xmax": 480.4733727810651,
+            "ymin": 291.7525773195876,
+            "ymax": 320.6185567010309
+        }
+    },
+    "Cars162": {
+        "size": {
+            "width": "560",
+            "height": "315",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "201",
+            "ymin": "168",
+            "xmax": "268",
+            "ymax": "213"
+        },
+        "bndbox_resized": {
+            "xmin": 215.35714285714286,
+            "xmax": 287.1428571428571,
+            "ymin": 213.33333333333331,
+            "ymax": 270.4761904761905
+        }
+    },
+    "Cars163": {
+        "size": {
+            "width": "590",
+            "height": "350",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "220",
+            "ymin": "173",
+            "xmax": "360",
+            "ymax": "200"
+        },
+        "bndbox_resized": {
+            "xmin": 223.72881355932202,
+            "xmax": 366.1016949152542,
+            "ymin": 197.7142857142857,
+            "ymax": 228.57142857142856
+        }
+    },
+    "Cars164": {
+        "size": {
+            "width": "400",
+            "height": "268",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "160",
+            "ymin": "144",
+            "xmax": "239",
+            "ymax": "183"
+        },
+        "bndbox_resized": {
+            "xmin": 240.0,
+            "xmax": 358.5,
+            "ymin": 214.92537313432837,
+            "ymax": 273.13432835820896
+        }
+    },
+    "Cars165": {
+        "size": {
+            "width": "590",
+            "height": "343",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "209",
+            "ymin": "217",
+            "xmax": "293",
+            "ymax": "254"
+        },
+        "bndbox_resized": {
+            "xmin": 212.54237288135593,
+            "xmax": 297.96610169491527,
+            "ymin": 253.06122448979593,
+            "ymax": 296.20991253644314
+        }
+    },
+    "Cars166": {
+        "size": {
+            "width": "300",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "148",
+            "ymin": "123",
+            "xmax": "201",
+            "ymax": "150"
+        },
+        "bndbox_resized": {
+            "xmin": 296.0,
+            "xmax": 402.0,
+            "ymin": 123.0,
+            "ymax": 150.0
+        }
+    },
+    "Cars167": {
+        "size": {
+            "width": "500",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "176",
+            "ymin": "254",
+            "xmax": "327",
+            "ymax": "285"
+        },
+        "bndbox_resized": {
+            "xmin": 211.2,
+            "xmax": 392.4,
+            "ymin": 254.0,
+            "ymax": 285.0
+        }
+    },
+    "Cars168": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "82",
+            "ymin": "95",
+            "xmax": "137",
+            "ymax": "125"
+        },
+        "bndbox_resized": {
+            "xmin": 123.0,
+            "xmax": 205.5,
+            "ymin": 168.88888888888889,
+            "ymax": 222.2222222222222
+        }
+    },
+    "Cars169": {
+        "size": {
+            "width": "400",
+            "height": "200",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "114",
+            "ymin": "79",
+            "xmax": "229",
+            "ymax": "101"
+        },
+        "bndbox_resized": {
+            "xmin": 171.0,
+            "xmax": 343.5,
+            "ymin": 158.0,
+            "ymax": 202.0
+        }
+    },
+    "Cars17": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "306",
+            "ymin": "188",
+            "xmax": "351",
+            "ymax": "205"
+        },
+        "bndbox_resized": {
+            "xmin": 459.0,
+            "xmax": 526.5,
+            "ymin": 281.6479400749064,
+            "ymax": 307.1161048689139
+        }
+    },
+    "Cars170": {
+        "size": {
+            "width": "500",
+            "height": "365",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "318",
+            "ymin": "190",
+            "xmax": "346",
+            "ymax": "224"
+        },
+        "bndbox_resized": {
+            "xmin": 381.59999999999997,
+            "xmax": 415.2,
+            "ymin": 208.21917808219177,
+            "ymax": 245.4794520547945
+        }
+    },
+    "Cars171": {
+        "size": {
+            "width": "400",
+            "height": "268",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "192",
+            "ymin": "146",
+            "xmax": "242",
+            "ymax": "167"
+        },
+        "bndbox_resized": {
+            "xmin": 288.0,
+            "xmax": 363.0,
+            "ymin": 217.91044776119404,
+            "ymax": 249.2537313432836
+        }
+    },
+    "Cars172": {
+        "size": {
+            "width": "457",
+            "height": "422",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "173",
+            "ymin": "209",
+            "xmax": "301",
+            "ymax": "239"
+        },
+        "bndbox_resized": {
+            "xmin": 227.13347921225383,
+            "xmax": 395.1859956236324,
+            "ymin": 198.1042654028436,
+            "ymax": 226.5402843601896
+        }
+    },
+    "Cars173": {
+        "size": {
+            "width": "400",
+            "height": "226",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "170",
+            "ymin": "118",
+            "xmax": "252",
+            "ymax": "163"
+        },
+        "bndbox_resized": {
+            "xmin": 255.0,
+            "xmax": 378.0,
+            "ymin": 208.84955752212392,
+            "ymax": 288.49557522123894
+        }
+    },
+    "Cars174": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "103",
+            "ymin": "150",
+            "xmax": "122",
+            "ymax": "158"
+        },
+        "bndbox_resized": {
+            "xmin": 154.5,
+            "xmax": 183.0,
+            "ymin": 266.66666666666663,
+            "ymax": 280.88888888888886
+        }
+    },
+    "Cars175": {
+        "size": {
+            "width": "600",
+            "height": "450",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "295",
+            "ymin": "237",
+            "xmax": "456",
+            "ymax": "367"
+        },
+        "bndbox_resized": {
+            "xmin": 295.0,
+            "xmax": 456.0,
+            "ymin": 210.66666666666666,
+            "ymax": 326.22222222222223
+        }
+    },
+    "Cars176": {
+        "size": {
+            "width": "400",
+            "height": "250",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "72",
+            "ymin": "67",
+            "xmax": "308",
+            "ymax": "185"
+        },
+        "bndbox_resized": {
+            "xmin": 108.0,
+            "xmax": 462.0,
+            "ymin": 107.2,
+            "ymax": 296.0
+        }
+    },
+    "Cars177": {
+        "size": {
+            "width": "400",
+            "height": "238",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "149",
+            "ymin": "166",
+            "xmax": "272",
+            "ymax": "193"
+        },
+        "bndbox_resized": {
+            "xmin": 223.5,
+            "xmax": 408.0,
+            "ymin": 278.9915966386555,
+            "ymax": 324.3697478991597
+        }
+    },
+    "Cars178": {
+        "size": {
+            "width": "300",
+            "height": "223",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "126",
+            "ymin": "180",
+            "xmax": "173",
+            "ymax": "205"
+        },
+        "bndbox_resized": {
+            "xmin": 252.0,
+            "xmax": 346.0,
+            "ymin": 322.8699551569507,
+            "ymax": 367.713004484305
+        }
+    },
+    "Cars179": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "72",
+            "ymin": "160",
+            "xmax": "132",
+            "ymax": "197"
+        },
+        "bndbox_resized": {
+            "xmin": 108.0,
+            "xmax": 198.0,
+            "ymin": 239.70037453183522,
+            "ymax": 295.13108614232215
+        }
+    },
+    "Cars18": {
+        "size": {
+            "width": "507",
+            "height": "388",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "313",
+            "ymin": "286",
+            "xmax": "405",
+            "ymax": "311"
+        },
+        "bndbox_resized": {
+            "xmin": 370.41420118343194,
+            "xmax": 479.2899408284024,
+            "ymin": 294.8453608247422,
+            "ymax": 320.6185567010309
+        }
+    },
+    "Cars180": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "151",
+            "ymin": "115",
+            "xmax": "304",
+            "ymax": "187"
+        },
+        "bndbox_resized": {
+            "xmin": 226.5,
+            "xmax": 456.0,
+            "ymin": 153.33333333333331,
+            "ymax": 249.33333333333331
+        }
+    },
+    "Cars181": {
+        "size": {
+            "width": "225",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "69",
+            "ymin": "195",
+            "xmax": "128",
+            "ymax": "209"
+        },
+        "bndbox_resized": {
+            "xmin": 184.0,
+            "xmax": 341.3333333333333,
+            "ymin": 195.0,
+            "ymax": 209.0
+        }
+    },
+    "Cars182": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "168",
+            "ymin": "139",
+            "xmax": "247",
+            "ymax": "159"
+        },
+        "bndbox_resized": {
+            "xmin": 252.0,
+            "xmax": 370.5,
+            "ymin": 247.1111111111111,
+            "ymax": 282.66666666666663
+        }
+    },
+    "Cars183": {
+        "size": {
+            "width": "590",
+            "height": "350",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "97",
+            "ymin": "138",
+            "xmax": "234",
+            "ymax": "170"
+        },
+        "bndbox_resized": {
+            "xmin": 98.64406779661016,
+            "xmax": 237.96610169491524,
+            "ymin": 157.7142857142857,
+            "ymax": 194.28571428571428
+        }
+    },
+    "Cars184": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "163",
+            "ymin": "146",
+            "xmax": "212",
+            "ymax": "159"
+        },
+        "bndbox_resized": {
+            "xmin": 244.5,
+            "xmax": 318.0,
+            "ymin": 259.55555555555554,
+            "ymax": 282.66666666666663
+        }
+    },
+    "Cars185": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "154",
+            "ymin": "147",
+            "xmax": "293",
+            "ymax": "194"
+        },
+        "bndbox_resized": {
+            "xmin": 231.0,
+            "xmax": 439.5,
+            "ymin": 220.2247191011236,
+            "ymax": 290.6367041198502
+        }
+    },
+    "Cars186": {
+        "size": {
+            "width": "400",
+            "height": "230",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "175",
+            "ymin": "152",
+            "xmax": "242",
+            "ymax": "175"
+        },
+        "bndbox_resized": {
+            "xmin": 262.5,
+            "xmax": 363.0,
+            "ymin": 264.3478260869565,
+            "ymax": 304.3478260869565
+        }
+    },
+    "Cars187": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "96",
+            "ymin": "116",
+            "xmax": "287",
+            "ymax": "155"
+        },
+        "bndbox_resized": {
+            "xmin": 144.0,
+            "xmax": 430.5,
+            "ymin": 206.2222222222222,
+            "ymax": 275.55555555555554
+        }
+    },
+    "Cars188": {
+        "size": {
+            "width": "300",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "32",
+            "ymin": "184",
+            "xmax": "43",
+            "ymax": "193"
+        },
+        "bndbox_resized": {
+            "xmin": 64.0,
+            "xmax": 86.0,
+            "ymin": 184.0,
+            "ymax": 193.0
+        }
+    },
+    "Cars189": {
+        "size": {
+            "width": "435",
+            "height": "290",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "285",
+            "ymin": "241",
+            "xmax": "423",
+            "ymax": "286"
+        },
+        "bndbox_resized": {
+            "xmin": 393.1034482758621,
+            "xmax": 583.448275862069,
+            "ymin": 332.4137931034483,
+            "ymax": 394.4827586206897
+        }
+    },
+    "Cars19": {
+        "size": {
+            "width": "400",
+            "height": "240",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "148",
+            "ymin": "195",
+            "xmax": "221",
+            "ymax": "232"
+        },
+        "bndbox_resized": {
+            "xmin": 222.0,
+            "xmax": 331.5,
+            "ymin": 325.0,
+            "ymax": 386.6666666666667
+        }
+    },
+    "Cars190": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "149",
+            "ymin": "210",
+            "xmax": "245",
+            "ymax": "235"
+        },
+        "bndbox_resized": {
+            "xmin": 223.5,
+            "xmax": 367.5,
+            "ymin": 280.0,
+            "ymax": 313.3333333333333
+        }
+    },
+    "Cars191": {
+        "size": {
+            "width": "400",
+            "height": "246",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "96",
+            "ymin": "189",
+            "xmax": "199",
+            "ymax": "217"
+        },
+        "bndbox_resized": {
+            "xmin": 144.0,
+            "xmax": 298.5,
+            "ymin": 307.3170731707317,
+            "ymax": 352.8455284552845
+        }
+    },
+    "Cars192": {
+        "size": {
+            "width": "323",
+            "height": "227",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "108",
+            "ymin": "150",
+            "xmax": "211",
+            "ymax": "173"
+        },
+        "bndbox_resized": {
+            "xmin": 200.61919504643961,
+            "xmax": 391.9504643962848,
+            "ymin": 264.3171806167401,
+            "ymax": 304.84581497797353
+        }
+    },
+    "Cars193": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "306",
+            "ymin": "193",
+            "xmax": "344",
+            "ymax": "214"
+        },
+        "bndbox_resized": {
+            "xmin": 459.0,
+            "xmax": 516.0,
+            "ymin": 289.13857677902627,
+            "ymax": 320.5992509363296
+        }
+    },
+    "Cars194": {
+        "size": {
+            "width": "400",
+            "height": "266",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "267",
+            "ymin": "170",
+            "xmax": "316",
+            "ymax": "183"
+        },
+        "bndbox_resized": {
+            "xmin": 400.5,
+            "xmax": 474.0,
+            "ymin": 255.6390977443609,
+            "ymax": 275.187969924812
+        }
+    },
+    "Cars195": {
+        "size": {
+            "width": "585",
+            "height": "331",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "450",
+            "ymin": "223",
+            "xmax": "526",
+            "ymax": "244"
+        },
+        "bndbox_resized": {
+            "xmin": 461.5384615384615,
+            "xmax": 539.4871794871794,
+            "ymin": 269.48640483383684,
+            "ymax": 294.86404833836855
+        }
+    },
+    "Cars196": {
+        "size": {
+            "width": "400",
+            "height": "259",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "105",
+            "ymin": "128",
+            "xmax": "130",
+            "ymax": "140"
+        },
+        "bndbox_resized": {
+            "xmin": 157.5,
+            "xmax": 195.0,
+            "ymin": 197.6833976833977,
+            "ymax": 216.21621621621622
+        }
+    },
+    "Cars197": {
+        "size": {
+            "width": "590",
+            "height": "350",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "222",
+            "ymin": "176",
+            "xmax": "359",
+            "ymax": "201"
+        },
+        "bndbox_resized": {
+            "xmin": 225.76271186440678,
+            "xmax": 365.08474576271186,
+            "ymin": 201.14285714285714,
+            "ymax": 229.7142857142857
+        }
+    },
+    "Cars198": {
+        "size": {
+            "width": "442",
+            "height": "333",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "166",
+            "ymin": "225",
+            "xmax": "273",
+            "ymax": "246"
+        },
+        "bndbox_resized": {
+            "xmin": 225.33936651583713,
+            "xmax": 370.5882352941177,
+            "ymin": 270.27027027027026,
+            "ymax": 295.4954954954955
+        }
+    },
+    "Cars199": {
+        "size": {
+            "width": "400",
+            "height": "266",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "59",
+            "ymin": "88",
+            "xmax": "310",
+            "ymax": "158"
+        },
+        "bndbox_resized": {
+            "xmin": 88.5,
+            "xmax": 465.0,
+            "ymin": 132.33082706766916,
+            "ymax": 237.593984962406
+        }
+    },
+    "Cars2": {
+        "size": {
+            "width": "400",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "229",
+            "ymin": "176",
+            "xmax": "270",
+            "ymax": "193"
+        },
+        "bndbox_resized": {
+            "xmin": 343.5,
+            "xmax": 405.0,
+            "ymin": 176.0,
+            "ymax": 193.0
+        }
+    },
+    "Cars20": {
+        "size": {
+            "width": "400",
+            "height": "244",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "18",
+            "ymin": "135",
+            "xmax": "48",
+            "ymax": "152"
+        },
+        "bndbox_resized": {
+            "xmin": 27.0,
+            "xmax": 72.0,
+            "ymin": 221.31147540983608,
+            "ymax": 249.18032786885246
+        }
+    },
+    "Cars200": {
+        "size": {
+            "width": "400",
+            "height": "246",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "95",
+            "ymin": "189",
+            "xmax": "195",
+            "ymax": "217"
+        },
+        "bndbox_resized": {
+            "xmin": 142.5,
+            "xmax": 292.5,
+            "ymin": 307.3170731707317,
+            "ymax": 352.8455284552845
+        }
+    },
+    "Cars201": {
+        "size": {
+            "width": "590",
+            "height": "350",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "216",
+            "ymin": "171",
+            "xmax": "367",
+            "ymax": "208"
+        },
+        "bndbox_resized": {
+            "xmin": 219.66101694915253,
+            "xmax": 373.22033898305085,
+            "ymin": 195.42857142857142,
+            "ymax": 237.7142857142857
+        }
+    },
+    "Cars202": {
+        "size": {
+            "width": "300",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "197",
+            "ymin": "135",
+            "xmax": "249",
+            "ymax": "159"
+        },
+        "bndbox_resized": {
+            "xmin": 394.0,
+            "xmax": 498.0,
+            "ymin": 240.0,
+            "ymax": 282.66666666666663
+        }
+    },
+    "Cars203": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "116",
+            "ymin": "112",
+            "xmax": "271",
+            "ymax": "165"
+        },
+        "bndbox_resized": {
+            "xmin": 174.0,
+            "xmax": 406.5,
+            "ymin": 167.79026217228466,
+            "ymax": 247.19101123595507
+        }
+    },
+    "Cars204": {
+        "size": {
+            "width": "500",
+            "height": "375",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "193",
+            "ymin": "145",
+            "xmax": "279",
+            "ymax": "187"
+        },
+        "bndbox_resized": {
+            "xmin": 231.6,
+            "xmax": 334.8,
+            "ymin": 154.66666666666666,
+            "ymax": 199.46666666666667
+        }
+    },
+    "Cars205": {
+        "size": {
+            "width": "399",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "156",
+            "ymin": "162",
+            "xmax": "221",
+            "ymax": "199"
+        },
+        "bndbox_resized": {
+            "xmin": 234.58646616541353,
+            "xmax": 332.33082706766913,
+            "ymin": 162.0,
+            "ymax": 199.0
+        }
+    },
+    "Cars206": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "95",
+            "ymin": "185",
+            "xmax": "164",
+            "ymax": "206"
+        },
+        "bndbox_resized": {
+            "xmin": 142.5,
+            "xmax": 246.0,
+            "ymin": 246.66666666666666,
+            "ymax": 274.66666666666663
+        }
+    },
+    "Cars207": {
+        "size": {
+            "width": "400",
+            "height": "478",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "254",
+            "ymin": "229",
+            "xmax": "372",
+            "ymax": "264"
+        },
+        "bndbox_resized": {
+            "xmin": 381.0,
+            "xmax": 558.0,
+            "ymin": 191.63179916317992,
+            "ymax": 220.92050209205019
+        }
+    },
+    "Cars208": {
+        "size": {
+            "width": "400",
+            "height": "268",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "142",
+            "ymin": "123",
+            "xmax": "232",
+            "ymax": "169"
+        },
+        "bndbox_resized": {
+            "xmin": 213.0,
+            "xmax": 348.0,
+            "ymin": 183.5820895522388,
+            "ymax": 252.23880597014926
+        }
+    },
+    "Cars209": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "359",
+            "ymin": "172",
+            "xmax": "387",
+            "ymax": "186"
+        },
+        "bndbox_resized": {
+            "xmin": 538.5,
+            "xmax": 580.5,
+            "ymin": 229.33333333333331,
+            "ymax": 248.0
+        }
+    },
+    "Cars21": {
+        "size": {
+            "width": "400",
+            "height": "301",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "191",
+            "ymin": "165",
+            "xmax": "255",
+            "ymax": "192"
+        },
+        "bndbox_resized": {
+            "xmin": 286.5,
+            "xmax": 382.5,
+            "ymin": 219.26910299003322,
+            "ymax": 255.1495016611296
+        }
+    },
+    "Cars210": {
+        "size": {
+            "width": "400",
+            "height": "266",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "54",
+            "ymin": "90",
+            "xmax": "315",
+            "ymax": "159"
+        },
+        "bndbox_resized": {
+            "xmin": 81.0,
+            "xmax": 472.5,
+            "ymin": 135.33834586466165,
+            "ymax": 239.09774436090225
+        }
+    },
+    "Cars211": {
+        "size": {
+            "width": "400",
+            "height": "295",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "28",
+            "ymin": "64",
+            "xmax": "387",
+            "ymax": "235"
+        },
+        "bndbox_resized": {
+            "xmin": 42.0,
+            "xmax": 580.5,
+            "ymin": 86.77966101694915,
+            "ymax": 318.64406779661016
+        }
+    },
+    "Cars212": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "105",
+            "ymin": "94",
+            "xmax": "290",
+            "ymax": "141"
+        },
+        "bndbox_resized": {
+            "xmin": 157.5,
+            "xmax": 435.0,
+            "ymin": 125.33333333333333,
+            "ymax": 188.0
+        }
+    },
+    "Cars213": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "150",
+            "ymin": "160",
+            "xmax": "233",
+            "ymax": "194"
+        },
+        "bndbox_resized": {
+            "xmin": 225.0,
+            "xmax": 349.5,
+            "ymin": 213.33333333333331,
+            "ymax": 258.66666666666663
+        }
+    },
+    "Cars214": {
+        "size": {
+            "width": "400",
+            "height": "243",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "188",
+            "ymin": "121",
+            "xmax": "214",
+            "ymax": "134"
+        },
+        "bndbox_resized": {
+            "xmin": 282.0,
+            "xmax": 321.0,
+            "ymin": 199.1769547325103,
+            "ymax": 220.5761316872428
+        }
+    },
+    "Cars215": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "92",
+            "ymin": "105",
+            "xmax": "162",
+            "ymax": "123"
+        },
+        "bndbox_resized": {
+            "xmin": 138.0,
+            "xmax": 243.0,
+            "ymin": 186.66666666666666,
+            "ymax": 218.66666666666666
+        }
+    },
+    "Cars216": {
+        "size": {
+            "width": "530",
+            "height": "398",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "205",
+            "ymin": "214",
+            "xmax": "280",
+            "ymax": "262"
+        },
+        "bndbox_resized": {
+            "xmin": 232.0754716981132,
+            "xmax": 316.9811320754717,
+            "ymin": 215.0753768844221,
+            "ymax": 263.31658291457285
+        }
+    },
+    "Cars217": {
+        "size": {
+            "width": "400",
+            "height": "240",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "149",
+            "ymin": "196",
+            "xmax": "223",
+            "ymax": "231"
+        },
+        "bndbox_resized": {
+            "xmin": 223.5,
+            "xmax": 334.5,
+            "ymin": 326.6666666666667,
+            "ymax": 385.0
+        }
+    },
+    "Cars218": {
+        "size": {
+            "width": "400",
+            "height": "253",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "0",
+            "ymin": "166",
+            "xmax": "27",
+            "ymax": "188"
+        },
+        "bndbox_resized": {
+            "xmin": 0.0,
+            "xmax": 40.5,
+            "ymin": 262.4505928853755,
+            "ymax": 297.2332015810277
+        }
+    },
+    "Cars219": {
+        "size": {
+            "width": "600",
+            "height": "450",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "127",
+            "ymin": "172",
+            "xmax": "462",
+            "ymax": "236"
+        },
+        "bndbox_resized": {
+            "xmin": 127.0,
+            "xmax": 462.0,
+            "ymin": 152.88888888888889,
+            "ymax": 209.77777777777777
+        }
+    },
+    "Cars22": {
+        "size": {
+            "width": "400",
+            "height": "299",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "207",
+            "ymin": "104",
+            "xmax": "260",
+            "ymax": "116"
+        },
+        "bndbox_resized": {
+            "xmin": 310.5,
+            "xmax": 390.0,
+            "ymin": 139.1304347826087,
+            "ymax": 155.1839464882943
+        }
+    },
+    "Cars220": {
+        "size": {
+            "width": "400",
+            "height": "265",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "142",
+            "ymin": "168",
+            "xmax": "188",
+            "ymax": "182"
+        },
+        "bndbox_resized": {
+            "xmin": 213.0,
+            "xmax": 282.0,
+            "ymin": 253.5849056603774,
+            "ymax": 274.7169811320755
+        }
+    },
+    "Cars221": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "102",
+            "ymin": "122",
+            "xmax": "125",
+            "ymax": "135"
+        },
+        "bndbox_resized": {
+            "xmin": 153.0,
+            "xmax": 187.5,
+            "ymin": 216.88888888888889,
+            "ymax": 240.0
+        }
+    },
+    "Cars222": {
+        "size": {
+            "width": "400",
+            "height": "230",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "178",
+            "ymin": "158",
+            "xmax": "235",
+            "ymax": "170"
+        },
+        "bndbox_resized": {
+            "xmin": 267.0,
+            "xmax": 352.5,
+            "ymin": 274.7826086956522,
+            "ymax": 295.6521739130435
+        }
+    },
+    "Cars223": {
+        "size": {
+            "width": "600",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "347",
+            "ymin": "231",
+            "xmax": "407",
+            "ymax": "249"
+        },
+        "bndbox_resized": {
+            "xmin": 347.0,
+            "xmax": 407.0,
+            "ymin": 231.0,
+            "ymax": 249.0
+        }
+    },
+    "Cars224": {
+        "size": {
+            "width": "480",
+            "height": "360",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "181",
+            "ymin": "250",
+            "xmax": "243",
+            "ymax": "275"
+        },
+        "bndbox_resized": {
+            "xmin": 226.25,
+            "xmax": 303.75,
+            "ymin": 277.77777777777777,
+            "ymax": 305.55555555555554
+        }
+    },
+    "Cars225": {
+        "size": {
+            "width": "600",
+            "height": "375",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "189",
+            "ymin": "161",
+            "xmax": "384",
+            "ymax": "215"
+        },
+        "bndbox_resized": {
+            "xmin": 189.0,
+            "xmax": 384.0,
+            "ymin": 171.73333333333332,
+            "ymax": 229.33333333333334
+        }
+    },
+    "Cars226": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "249",
+            "ymin": "194",
+            "xmax": "318",
+            "ymax": "213"
+        },
+        "bndbox_resized": {
+            "xmin": 373.5,
+            "xmax": 477.0,
+            "ymin": 290.6367041198502,
+            "ymax": 319.10112359550567
+        }
+    },
+    "Cars227": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "118",
+            "ymin": "199",
+            "xmax": "153",
+            "ymax": "211"
+        },
+        "bndbox_resized": {
+            "xmin": 177.0,
+            "xmax": 229.5,
+            "ymin": 298.12734082397003,
+            "ymax": 316.1048689138577
+        }
+    },
+    "Cars228": {
+        "size": {
+            "width": "400",
+            "height": "197",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "86",
+            "ymin": "127",
+            "xmax": "113",
+            "ymax": "143"
+        },
+        "bndbox_resized": {
+            "xmin": 129.0,
+            "xmax": 169.5,
+            "ymin": 257.8680203045685,
+            "ymax": 290.3553299492386
+        }
+    },
+    "Cars229": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "253",
+            "ymin": "163",
+            "xmax": "284",
+            "ymax": "177"
+        },
+        "bndbox_resized": {
+            "xmin": 379.5,
+            "xmax": 426.0,
+            "ymin": 289.77777777777777,
+            "ymax": 314.66666666666663
+        }
+    },
+    "Cars23": {
+        "size": {
+            "width": "400",
+            "height": "299",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "143",
+            "ymin": "172",
+            "xmax": "213",
+            "ymax": "211"
+        },
+        "bndbox_resized": {
+            "xmin": 214.5,
+            "xmax": 319.5,
+            "ymin": 230.10033444816054,
+            "ymax": 282.2742474916388
+        }
+    },
+    "Cars230": {
+        "size": {
+            "width": "590",
+            "height": "350",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "222",
+            "ymin": "173",
+            "xmax": "361",
+            "ymax": "202"
+        },
+        "bndbox_resized": {
+            "xmin": 225.76271186440678,
+            "xmax": 367.1186440677966,
+            "ymin": 197.7142857142857,
+            "ymax": 230.85714285714283
+        }
+    },
+    "Cars231": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "64",
+            "ymin": "160",
+            "xmax": "133",
+            "ymax": "180"
+        },
+        "bndbox_resized": {
+            "xmin": 96.0,
+            "xmax": 199.5,
+            "ymin": 239.70037453183522,
+            "ymax": 269.6629213483146
+        }
+    },
+    "Cars232": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "175",
+            "ymin": "174",
+            "xmax": "228",
+            "ymax": "201"
+        },
+        "bndbox_resized": {
+            "xmin": 262.5,
+            "xmax": 342.0,
+            "ymin": 232.0,
+            "ymax": 268.0
+        }
+    },
+    "Cars233": {
+        "size": {
+            "width": "400",
+            "height": "151",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "189",
+            "ymin": "55",
+            "xmax": "259",
+            "ymax": "78"
+        },
+        "bndbox_resized": {
+            "xmin": 283.5,
+            "xmax": 388.5,
+            "ymin": 145.6953642384106,
+            "ymax": 206.6225165562914
+        }
+    },
+    "Cars234": {
+        "size": {
+            "width": "400",
+            "height": "233",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "160",
+            "ymin": "149",
+            "xmax": "246",
+            "ymax": "171"
+        },
+        "bndbox_resized": {
+            "xmin": 240.0,
+            "xmax": 369.0,
+            "ymin": 255.793991416309,
+            "ymax": 293.56223175965664
+        }
+    },
+    "Cars235": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "152",
+            "ymin": "145",
+            "xmax": "247",
+            "ymax": "167"
+        },
+        "bndbox_resized": {
+            "xmin": 228.0,
+            "xmax": 370.5,
+            "ymin": 257.77777777777777,
+            "ymax": 296.88888888888886
+        }
+    },
+    "Cars236": {
+        "size": {
+            "width": "400",
+            "height": "176",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "223",
+            "ymin": "106",
+            "xmax": "250",
+            "ymax": "119"
+        },
+        "bndbox_resized": {
+            "xmin": 334.5,
+            "xmax": 375.0,
+            "ymin": 240.90909090909093,
+            "ymax": 270.4545454545455
+        }
+    },
+    "Cars237": {
+        "size": {
+            "width": "236",
+            "height": "314",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "118",
+            "ymin": "148",
+            "xmax": "154",
+            "ymax": "169"
+        },
+        "bndbox_resized": {
+            "xmin": 300.0,
+            "xmax": 391.52542372881356,
+            "ymin": 188.53503184713375,
+            "ymax": 215.28662420382165
+        }
+    },
+    "Cars238": {
+        "size": {
+            "width": "600",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "276",
+            "ymin": "186",
+            "xmax": "396",
+            "ymax": "273"
+        },
+        "bndbox_resized": {
+            "xmin": 276.0,
+            "xmax": 396.0,
+            "ymin": 186.0,
+            "ymax": 273.0
+        }
+    },
+    "Cars239": {
+        "size": {
+            "width": "500",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "176",
+            "ymin": "254",
+            "xmax": "326",
+            "ymax": "284"
+        },
+        "bndbox_resized": {
+            "xmin": 211.2,
+            "xmax": 391.2,
+            "ymin": 254.0,
+            "ymax": 284.0
+        }
+    },
+    "Cars24": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "167",
+            "ymin": "202",
+            "xmax": "240",
+            "ymax": "221"
+        },
+        "bndbox_resized": {
+            "xmin": 250.5,
+            "xmax": 360.0,
+            "ymin": 269.3333333333333,
+            "ymax": 294.66666666666663
+        }
+    },
+    "Cars240": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "171",
+            "ymin": "116",
+            "xmax": "232",
+            "ymax": "132"
+        },
+        "bndbox_resized": {
+            "xmin": 256.5,
+            "xmax": 348.0,
+            "ymin": 206.2222222222222,
+            "ymax": 234.66666666666666
+        }
+    },
+    "Cars241": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "126",
+            "ymin": "142",
+            "xmax": "241",
+            "ymax": "199"
+        },
+        "bndbox_resized": {
+            "xmin": 189.0,
+            "xmax": 361.5,
+            "ymin": 212.73408239700376,
+            "ymax": 298.12734082397003
+        }
+    },
+    "Cars242": {
+        "size": {
+            "width": "400",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "224",
+            "ymin": "170",
+            "xmax": "277",
+            "ymax": "199"
+        },
+        "bndbox_resized": {
+            "xmin": 336.0,
+            "xmax": 415.5,
+            "ymin": 170.0,
+            "ymax": 199.0
+        }
+    },
+    "Cars243": {
+        "size": {
+            "width": "600",
+            "height": "450",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "129",
+            "ymin": "174",
+            "xmax": "465",
+            "ymax": "235"
+        },
+        "bndbox_resized": {
+            "xmin": 129.0,
+            "xmax": 465.0,
+            "ymin": 154.66666666666666,
+            "ymax": 208.88888888888889
+        }
+    },
+    "Cars244": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "20",
+            "ymin": "87",
+            "xmax": "360",
+            "ymax": "155"
+        },
+        "bndbox_resized": {
+            "xmin": 30.0,
+            "xmax": 540.0,
+            "ymin": 116.0,
+            "ymax": 206.66666666666666
+        }
+    },
+    "Cars245": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "91",
+            "ymin": "110",
+            "xmax": "164",
+            "ymax": "138"
+        },
+        "bndbox_resized": {
+            "xmin": 136.5,
+            "xmax": 246.0,
+            "ymin": 164.79400749063672,
+            "ymax": 206.74157303370788
+        }
+    },
+    "Cars246": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "49",
+            "ymin": "163",
+            "xmax": "112",
+            "ymax": "193"
+        },
+        "bndbox_resized": {
+            "xmin": 73.5,
+            "xmax": 168.0,
+            "ymin": 244.19475655430713,
+            "ymax": 289.13857677902627
+        }
+    },
+    "Cars247": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "147",
+            "ymin": "11",
+            "xmax": "300",
+            "ymax": "149"
+        },
+        "bndbox_resized": {
+            "xmin": 220.5,
+            "xmax": 450.0,
+            "ymin": 19.555555555555554,
+            "ymax": 264.88888888888886
+        }
+    },
+    "Cars248": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "184",
+            "ymin": "143",
+            "xmax": "311",
+            "ymax": "191"
+        },
+        "bndbox_resized": {
+            "xmin": 276.0,
+            "xmax": 466.5,
+            "ymin": 190.66666666666666,
+            "ymax": 254.66666666666666
+        }
+    },
+    "Cars249": {
+        "size": {
+            "width": "400",
+            "height": "247",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "300",
+            "ymin": "208",
+            "xmax": "354",
+            "ymax": "226"
+        },
+        "bndbox_resized": {
+            "xmin": 450.0,
+            "xmax": 531.0,
+            "ymin": 336.84210526315786,
+            "ymax": 365.9919028340081
+        }
+    },
+    "Cars25": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "177",
+            "ymin": "139",
+            "xmax": "216",
+            "ymax": "159"
+        },
+        "bndbox_resized": {
+            "xmin": 265.5,
+            "xmax": 324.0,
+            "ymin": 247.1111111111111,
+            "ymax": 282.66666666666663
+        }
+    },
+    "Cars250": {
+        "size": {
+            "width": "400",
+            "height": "248",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "132",
+            "ymin": "123",
+            "xmax": "261",
+            "ymax": "160"
+        },
+        "bndbox_resized": {
+            "xmin": 198.0,
+            "xmax": 391.5,
+            "ymin": 198.38709677419354,
+            "ymax": 258.06451612903226
+        }
+    },
+    "Cars251": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "136",
+            "ymin": "134",
+            "xmax": "210",
+            "ymax": "153"
+        },
+        "bndbox_resized": {
+            "xmin": 204.0,
+            "xmax": 315.0,
+            "ymin": 238.2222222222222,
+            "ymax": 272.0
+        }
+    },
+    "Cars252": {
+        "size": {
+            "width": "500",
+            "height": "380",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "174",
+            "ymin": "237",
+            "xmax": "314",
+            "ymax": "274"
+        },
+        "bndbox_resized": {
+            "xmin": 208.79999999999998,
+            "xmax": 376.8,
+            "ymin": 249.4736842105263,
+            "ymax": 288.42105263157896
+        }
+    },
+    "Cars253": {
+        "size": {
+            "width": "400",
+            "height": "210",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "25",
+            "ymin": "124",
+            "xmax": "64",
+            "ymax": "137"
+        },
+        "bndbox_resized": {
+            "xmin": 37.5,
+            "xmax": 96.0,
+            "ymin": 236.19047619047618,
+            "ymax": 260.95238095238096
+        }
+    },
+    "Cars254": {
+        "size": {
+            "width": "400",
+            "height": "367",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "166",
+            "ymin": "175",
+            "xmax": "235",
+            "ymax": "207"
+        },
+        "bndbox_resized": {
+            "xmin": 249.0,
+            "xmax": 352.5,
+            "ymin": 190.7356948228883,
+            "ymax": 225.61307901907358
+        }
+    },
+    "Cars255": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "116",
+            "ymin": "156",
+            "xmax": "273",
+            "ymax": "188"
+        },
+        "bndbox_resized": {
+            "xmin": 174.0,
+            "xmax": 409.5,
+            "ymin": 233.70786516853934,
+            "ymax": 281.6479400749064
+        }
+    },
+    "Cars256": {
+        "size": {
+            "width": "400",
+            "height": "245",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "286",
+            "ymin": "175",
+            "xmax": "400",
+            "ymax": "212"
+        },
+        "bndbox_resized": {
+            "xmin": 429.0,
+            "xmax": 600.0,
+            "ymin": 285.7142857142857,
+            "ymax": 346.12244897959187
+        }
+    },
+    "Cars257": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "167",
+            "ymin": "132",
+            "xmax": "241",
+            "ymax": "166"
+        },
+        "bndbox_resized": {
+            "xmin": 250.5,
+            "xmax": 361.5,
+            "ymin": 176.0,
+            "ymax": 221.33333333333331
+        }
+    },
+    "Cars258": {
+        "size": {
+            "width": "400",
+            "height": "266",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "158",
+            "ymin": "184",
+            "xmax": "230",
+            "ymax": "232"
+        },
+        "bndbox_resized": {
+            "xmin": 237.0,
+            "xmax": 345.0,
+            "ymin": 276.69172932330827,
+            "ymax": 348.8721804511278
+        }
+    },
+    "Cars259": {
+        "size": {
+            "width": "600",
+            "height": "338",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "324",
+            "ymin": "166",
+            "xmax": "475",
+            "ymax": "205"
+        },
+        "bndbox_resized": {
+            "xmin": 324.0,
+            "xmax": 475.0,
+            "ymin": 196.44970414201185,
+            "ymax": 242.60355029585799
+        }
+    },
+    "Cars26": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "258",
+            "ymin": "184",
+            "xmax": "321",
+            "ymax": "213"
+        },
+        "bndbox_resized": {
+            "xmin": 387.0,
+            "xmax": 481.5,
+            "ymin": 327.1111111111111,
+            "ymax": 378.66666666666663
+        }
+    },
+    "Cars260": {
+        "size": {
+            "width": "400",
+            "height": "240",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "170",
+            "ymin": "112",
+            "xmax": "232",
+            "ymax": "129"
+        },
+        "bndbox_resized": {
+            "xmin": 255.0,
+            "xmax": 348.0,
+            "ymin": 186.66666666666669,
+            "ymax": 215.0
+        }
+    },
+    "Cars261": {
+        "size": {
+            "width": "480",
+            "height": "360",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "1",
+            "ymin": "74",
+            "xmax": "464",
+            "ymax": "154"
+        },
+        "bndbox_resized": {
+            "xmin": 1.25,
+            "xmax": 580.0,
+            "ymin": 82.22222222222223,
+            "ymax": 171.11111111111111
+        }
+    },
+    "Cars262": {
+        "size": {
+            "width": "400",
+            "height": "301",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "243",
+            "ymin": "184",
+            "xmax": "285",
+            "ymax": "205"
+        },
+        "bndbox_resized": {
+            "xmin": 364.5,
+            "xmax": 427.5,
+            "ymin": 244.51827242524917,
+            "ymax": 272.42524916943523
+        }
+    },
+    "Cars263": {
+        "size": {
+            "width": "400",
+            "height": "292",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "129",
+            "ymin": "260",
+            "xmax": "232",
+            "ymax": "290"
+        },
+        "bndbox_resized": {
+            "xmin": 193.5,
+            "xmax": 348.0,
+            "ymin": 356.16438356164383,
+            "ymax": 397.2602739726027
+        }
+    },
+    "Cars264": {
+        "size": {
+            "width": "400",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "222",
+            "ymin": "300",
+            "xmax": "295",
+            "ymax": "337"
+        },
+        "bndbox_resized": {
+            "xmin": 333.0,
+            "xmax": 442.5,
+            "ymin": 300.0,
+            "ymax": 337.0
+        }
+    },
+    "Cars265": {
+        "size": {
+            "width": "400",
+            "height": "218",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "87",
+            "ymin": "166",
+            "xmax": "216",
+            "ymax": "212"
+        },
+        "bndbox_resized": {
+            "xmin": 130.5,
+            "xmax": 324.0,
+            "ymin": 304.5871559633028,
+            "ymax": 388.9908256880734
+        }
+    },
+    "Cars266": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "154",
+            "ymin": "45",
+            "xmax": "393",
+            "ymax": "176"
+        },
+        "bndbox_resized": {
+            "xmin": 231.0,
+            "xmax": 589.5,
+            "ymin": 80.0,
+            "ymax": 312.88888888888886
+        }
+    },
+    "Cars267": {
+        "size": {
+            "width": "415",
+            "height": "220",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "274",
+            "ymin": "118",
+            "xmax": "343",
+            "ymax": "138"
+        },
+        "bndbox_resized": {
+            "xmin": 396.144578313253,
+            "xmax": 495.90361445783134,
+            "ymin": 214.54545454545453,
+            "ymax": 250.9090909090909
+        }
+    },
+    "Cars268": {
+        "size": {
+            "width": "300",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "213",
+            "ymin": "133",
+            "xmax": "271",
+            "ymax": "168"
+        },
+        "bndbox_resized": {
+            "xmin": 426.0,
+            "xmax": 542.0,
+            "ymin": 236.44444444444443,
+            "ymax": 298.66666666666663
+        }
+    },
+    "Cars269": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "110",
+            "ymin": "199",
+            "xmax": "147",
+            "ymax": "217"
+        },
+        "bndbox_resized": {
+            "xmin": 165.0,
+            "xmax": 220.5,
+            "ymin": 265.3333333333333,
+            "ymax": 289.3333333333333
+        }
+    },
+    "Cars27": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "148",
+            "ymin": "127",
+            "xmax": "245",
+            "ymax": "159"
+        },
+        "bndbox_resized": {
+            "xmin": 222.0,
+            "xmax": 367.5,
+            "ymin": 225.77777777777777,
+            "ymax": 282.66666666666663
+        }
+    },
+    "Cars270": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "75",
+            "ymin": "173",
+            "xmax": "125",
+            "ymax": "195"
+        },
+        "bndbox_resized": {
+            "xmin": 112.5,
+            "xmax": 187.5,
+            "ymin": 307.55555555555554,
+            "ymax": 346.66666666666663
+        }
+    },
+    "Cars271": {
+        "size": {
+            "width": "400",
+            "height": "266",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "262",
+            "ymin": "141",
+            "xmax": "318",
+            "ymax": "160"
+        },
+        "bndbox_resized": {
+            "xmin": 393.0,
+            "xmax": 477.0,
+            "ymin": 212.0300751879699,
+            "ymax": 240.6015037593985
+        }
+    },
+    "Cars272": {
+        "size": {
+            "width": "558",
+            "height": "229",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "170",
+            "ymin": "81",
+            "xmax": "316",
+            "ymax": "121"
+        },
+        "bndbox_resized": {
+            "xmin": 182.79569892473117,
+            "xmax": 339.7849462365591,
+            "ymin": 141.48471615720524,
+            "ymax": 211.35371179039302
+        }
+    },
+    "Cars273": {
+        "size": {
+            "width": "590",
+            "height": "350",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "74",
+            "ymin": "132",
+            "xmax": "264",
+            "ymax": "173"
+        },
+        "bndbox_resized": {
+            "xmin": 75.25423728813558,
+            "xmax": 268.47457627118644,
+            "ymin": 150.85714285714286,
+            "ymax": 197.7142857142857
+        }
+    },
+    "Cars274": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "196",
+            "ymin": "149",
+            "xmax": "253",
+            "ymax": "169"
+        },
+        "bndbox_resized": {
+            "xmin": 294.0,
+            "xmax": 379.5,
+            "ymin": 198.66666666666666,
+            "ymax": 225.33333333333331
+        }
+    },
+    "Cars275": {
+        "size": {
+            "width": "400",
+            "height": "215",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "99",
+            "ymin": "150",
+            "xmax": "162",
+            "ymax": "167"
+        },
+        "bndbox_resized": {
+            "xmin": 148.5,
+            "xmax": 243.0,
+            "ymin": 279.06976744186045,
+            "ymax": 310.69767441860466
+        }
+    },
+    "Cars276": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "115",
+            "ymin": "116",
+            "xmax": "276",
+            "ymax": "156"
+        },
+        "bndbox_resized": {
+            "xmin": 172.5,
+            "xmax": 414.0,
+            "ymin": 173.78277153558054,
+            "ymax": 233.70786516853934
+        }
+    },
+    "Cars277": {
+        "size": {
+            "width": "400",
+            "height": "291",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "373",
+            "ymin": "212",
+            "xmax": "388",
+            "ymax": "217"
+        },
+        "bndbox_resized": {
+            "xmin": 559.5,
+            "xmax": 582.0,
+            "ymin": 291.40893470790377,
+            "ymax": 298.2817869415808
+        }
+    },
+    "Cars278": {
+        "size": {
+            "width": "400",
+            "height": "201",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "278",
+            "ymin": "138",
+            "xmax": "315",
+            "ymax": "163"
+        },
+        "bndbox_resized": {
+            "xmin": 417.0,
+            "xmax": 472.5,
+            "ymin": 274.6268656716418,
+            "ymax": 324.37810945273634
+        }
+    },
+    "Cars279": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "42",
+            "ymin": "131",
+            "xmax": "202",
+            "ymax": "243"
+        },
+        "bndbox_resized": {
+            "xmin": 63.0,
+            "xmax": 303.0,
+            "ymin": 174.66666666666666,
+            "ymax": 324.0
+        }
+    },
+    "Cars28": {
+        "size": {
+            "width": "600",
+            "height": "425",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "541",
+            "ymin": "366",
+            "xmax": "598",
+            "ymax": "384"
+        },
+        "bndbox_resized": {
+            "xmin": 541.0,
+            "xmax": 598.0,
+            "ymin": 344.4705882352941,
+            "ymax": 361.4117647058823
+        }
+    },
+    "Cars280": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "191",
+            "ymin": "185",
+            "xmax": "213",
+            "ymax": "195"
+        },
+        "bndbox_resized": {
+            "xmin": 286.5,
+            "xmax": 319.5,
+            "ymin": 277.1535580524345,
+            "ymax": 292.13483146067415
+        }
+    },
+    "Cars281": {
+        "size": {
+            "width": "400",
+            "height": "247",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "151",
+            "ymin": "169",
+            "xmax": "243",
+            "ymax": "183"
+        },
+        "bndbox_resized": {
+            "xmin": 226.5,
+            "xmax": 364.5,
+            "ymin": 273.6842105263158,
+            "ymax": 296.3562753036437
+        }
+    },
+    "Cars282": {
+        "size": {
+            "width": "350",
+            "height": "263",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "37",
+            "ymin": "145",
+            "xmax": "319",
+            "ymax": "203"
+        },
+        "bndbox_resized": {
+            "xmin": 63.42857142857142,
+            "xmax": 546.8571428571428,
+            "ymin": 220.53231939163496,
+            "ymax": 308.74524714828897
+        }
+    },
+    "Cars283": {
+        "size": {
+            "width": "400",
+            "height": "205",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "137",
+            "ymin": "171",
+            "xmax": "157",
+            "ymax": "178"
+        },
+        "bndbox_resized": {
+            "xmin": 205.5,
+            "xmax": 235.5,
+            "ymin": 333.6585365853658,
+            "ymax": 347.3170731707317
+        }
+    },
+    "Cars284": {
+        "size": {
+            "width": "375",
+            "height": "500",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "70",
+            "ymin": "199",
+            "xmax": "260",
+            "ymax": "271"
+        },
+        "bndbox_resized": {
+            "xmin": 112.0,
+            "xmax": 416.0,
+            "ymin": 159.20000000000002,
+            "ymax": 216.8
+        }
+    },
+    "Cars285": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "91",
+            "ymin": "111",
+            "xmax": "163",
+            "ymax": "134"
+        },
+        "bndbox_resized": {
+            "xmin": 136.5,
+            "xmax": 244.5,
+            "ymin": 166.2921348314607,
+            "ymax": 200.749063670412
+        }
+    },
+    "Cars286": {
+        "size": {
+            "width": "500",
+            "height": "375",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "201",
+            "ymin": "191",
+            "xmax": "288",
+            "ymax": "230"
+        },
+        "bndbox_resized": {
+            "xmin": 241.2,
+            "xmax": 345.59999999999997,
+            "ymin": 203.73333333333332,
+            "ymax": 245.33333333333334
+        }
+    },
+    "Cars287": {
+        "size": {
+            "width": "400",
+            "height": "332",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "148",
+            "ymin": "180",
+            "xmax": "262",
+            "ymax": "213"
+        },
+        "bndbox_resized": {
+            "xmin": 222.0,
+            "xmax": 393.0,
+            "ymin": 216.8674698795181,
+            "ymax": 256.6265060240964
+        }
+    },
+    "Cars288": {
+        "size": {
+            "width": "400",
+            "height": "215",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "97",
+            "ymin": "148",
+            "xmax": "164",
+            "ymax": "169"
+        },
+        "bndbox_resized": {
+            "xmin": 145.5,
+            "xmax": 246.0,
+            "ymin": 275.3488372093023,
+            "ymax": 314.4186046511628
+        }
+    },
+    "Cars289": {
+        "size": {
+            "width": "400",
+            "height": "307",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "163",
+            "ymin": "140",
+            "xmax": "271",
+            "ymax": "173"
+        },
+        "bndbox_resized": {
+            "xmin": 244.5,
+            "xmax": 406.5,
+            "ymin": 182.41042345276873,
+            "ymax": 225.4071661237785
+        }
+    },
+    "Cars29": {
+        "size": {
+            "width": "400",
+            "height": "299",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "143",
+            "ymin": "171",
+            "xmax": "211",
+            "ymax": "208"
+        },
+        "bndbox_resized": {
+            "xmin": 214.5,
+            "xmax": 316.5,
+            "ymin": 228.76254180602007,
+            "ymax": 278.2608695652174
+        }
+    },
+    "Cars290": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "224",
+            "ymin": "84",
+            "xmax": "271",
+            "ymax": "118"
+        },
+        "bndbox_resized": {
+            "xmin": 336.0,
+            "xmax": 406.5,
+            "ymin": 125.84269662921349,
+            "ymax": 176.77902621722848
+        }
+    },
+    "Cars291": {
+        "size": {
+            "width": "517",
+            "height": "303",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "71",
+            "ymin": "205",
+            "xmax": "215",
+            "ymax": "246"
+        },
+        "bndbox_resized": {
+            "xmin": 82.39845261121856,
+            "xmax": 249.5164410058027,
+            "ymin": 270.62706270627064,
+            "ymax": 324.7524752475247
+        }
+    },
+    "Cars292": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "91",
+            "ymin": "187",
+            "xmax": "137",
+            "ymax": "208"
+        },
+        "bndbox_resized": {
+            "xmin": 136.5,
+            "xmax": 205.5,
+            "ymin": 280.1498127340824,
+            "ymax": 311.6104868913858
+        }
+    },
+    "Cars293": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "64",
+            "ymin": "160",
+            "xmax": "130",
+            "ymax": "181"
+        },
+        "bndbox_resized": {
+            "xmin": 96.0,
+            "xmax": 195.0,
+            "ymin": 239.70037453183522,
+            "ymax": 271.1610486891386
+        }
+    },
+    "Cars294": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "142",
+            "ymin": "117",
+            "xmax": "218",
+            "ymax": "135"
+        },
+        "bndbox_resized": {
+            "xmin": 213.0,
+            "xmax": 327.0,
+            "ymin": 175.2808988764045,
+            "ymax": 202.24719101123597
+        }
+    },
+    "Cars295": {
+        "size": {
+            "width": "400",
+            "height": "256",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "237",
+            "ymin": "143",
+            "xmax": "271",
+            "ymax": "162"
+        },
+        "bndbox_resized": {
+            "xmin": 355.5,
+            "xmax": 406.5,
+            "ymin": 223.4375,
+            "ymax": 253.125
+        }
+    },
+    "Cars296": {
+        "size": {
+            "width": "400",
+            "height": "318",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "163",
+            "ymin": "158",
+            "xmax": "234",
+            "ymax": "196"
+        },
+        "bndbox_resized": {
+            "xmin": 244.5,
+            "xmax": 351.0,
+            "ymin": 198.74213836477986,
+            "ymax": 246.54088050314465
+        }
+    },
+    "Cars297": {
+        "size": {
+            "width": "400",
+            "height": "233",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "158",
+            "ymin": "149",
+            "xmax": "247",
+            "ymax": "170"
+        },
+        "bndbox_resized": {
+            "xmin": 237.0,
+            "xmax": 370.5,
+            "ymin": 255.793991416309,
+            "ymax": 291.84549356223175
+        }
+    },
+    "Cars298": {
+        "size": {
+            "width": "400",
+            "height": "268",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "166",
+            "ymin": "148",
+            "xmax": "233",
+            "ymax": "184"
+        },
+        "bndbox_resized": {
+            "xmin": 249.0,
+            "xmax": 349.5,
+            "ymin": 220.8955223880597,
+            "ymax": 274.6268656716418
+        }
+    },
+    "Cars299": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "101",
+            "ymin": "136",
+            "xmax": "270",
+            "ymax": "176"
+        },
+        "bndbox_resized": {
+            "xmin": 151.5,
+            "xmax": 405.0,
+            "ymin": 181.33333333333331,
+            "ymax": 234.66666666666666
+        }
+    },
+    "Cars3": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "142",
+            "ymin": "128",
+            "xmax": "261",
+            "ymax": "157"
+        },
+        "bndbox_resized": {
+            "xmin": 213.0,
+            "xmax": 391.5,
+            "ymin": 227.55555555555554,
+            "ymax": 279.1111111111111
+        }
+    },
+    "Cars30": {
+        "size": {
+            "width": "400",
+            "height": "240",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "155",
+            "ymin": "169",
+            "xmax": "200",
+            "ymax": "182"
+        },
+        "bndbox_resized": {
+            "xmin": 232.5,
+            "xmax": 300.0,
+            "ymin": 281.6666666666667,
+            "ymax": 303.33333333333337
+        }
+    },
+    "Cars300": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "259",
+            "ymin": "185",
+            "xmax": "317",
+            "ymax": "215"
+        },
+        "bndbox_resized": {
+            "xmin": 388.5,
+            "xmax": 475.5,
+            "ymin": 328.88888888888886,
+            "ymax": 382.22222222222223
+        }
+    },
+    "Cars301": {
+        "size": {
+            "width": "500",
+            "height": "232",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "205",
+            "ymin": "107",
+            "xmax": "303",
+            "ymax": "135"
+        },
+        "bndbox_resized": {
+            "xmin": 246.0,
+            "xmax": 363.59999999999997,
+            "ymin": 184.48275862068965,
+            "ymax": 232.75862068965515
+        }
+    },
+    "Cars302": {
+        "size": {
+            "width": "500",
+            "height": "234",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "222",
+            "ymin": "98",
+            "xmax": "425",
+            "ymax": "149"
+        },
+        "bndbox_resized": {
+            "xmin": 266.4,
+            "xmax": 510.0,
+            "ymin": 167.52136752136752,
+            "ymax": 254.70085470085468
+        }
+    },
+    "Cars303": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "150",
+            "ymin": "211",
+            "xmax": "247",
+            "ymax": "237"
+        },
+        "bndbox_resized": {
+            "xmin": 225.0,
+            "xmax": 370.5,
+            "ymin": 281.3333333333333,
+            "ymax": 316.0
+        }
+    },
+    "Cars304": {
+        "size": {
+            "width": "400",
+            "height": "226",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "143",
+            "ymin": "114",
+            "xmax": "222",
+            "ymax": "156"
+        },
+        "bndbox_resized": {
+            "xmin": 214.5,
+            "xmax": 333.0,
+            "ymin": 201.76991150442478,
+            "ymax": 276.1061946902655
+        }
+    },
+    "Cars305": {
+        "size": {
+            "width": "450",
+            "height": "270",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "361",
+            "ymin": "167",
+            "xmax": "434",
+            "ymax": "183"
+        },
+        "bndbox_resized": {
+            "xmin": 481.3333333333333,
+            "xmax": 578.6666666666666,
+            "ymin": 247.4074074074074,
+            "ymax": 271.1111111111111
+        }
+    },
+    "Cars306": {
+        "size": {
+            "width": "400",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "139",
+            "ymin": "282",
+            "xmax": "249",
+            "ymax": "310"
+        },
+        "bndbox_resized": {
+            "xmin": 208.5,
+            "xmax": 373.5,
+            "ymin": 282.0,
+            "ymax": 310.0
+        }
+    },
+    "Cars307": {
+        "size": {
+            "width": "600",
+            "height": "417",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "172",
+            "ymin": "163",
+            "xmax": "437",
+            "ymax": "220"
+        },
+        "bndbox_resized": {
+            "xmin": 172.0,
+            "xmax": 437.0,
+            "ymin": 156.3549160671463,
+            "ymax": 211.03117505995203
+        }
+    },
+    "Cars308": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "159",
+            "ymin": "221",
+            "xmax": "237",
+            "ymax": "241"
+        },
+        "bndbox_resized": {
+            "xmin": 238.5,
+            "xmax": 355.5,
+            "ymin": 294.66666666666663,
+            "ymax": 321.3333333333333
+        }
+    },
+    "Cars309": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "152",
+            "ymin": "122",
+            "xmax": "252",
+            "ymax": "207"
+        },
+        "bndbox_resized": {
+            "xmin": 228.0,
+            "xmax": 378.0,
+            "ymin": 216.88888888888889,
+            "ymax": 368.0
+        }
+    },
+    "Cars31": {
+        "size": {
+            "width": "400",
+            "height": "245",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "286",
+            "ymin": "173",
+            "xmax": "400",
+            "ymax": "211"
+        },
+        "bndbox_resized": {
+            "xmin": 429.0,
+            "xmax": 600.0,
+            "ymin": 282.44897959183675,
+            "ymax": 344.48979591836735
+        }
+    },
+    "Cars310": {
+        "size": {
+            "width": "600",
+            "height": "531",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "241",
+            "ymin": "369",
+            "xmax": "348",
+            "ymax": "417"
+        },
+        "bndbox_resized": {
+            "xmin": 241.0,
+            "xmax": 348.0,
+            "ymin": 277.96610169491527,
+            "ymax": 314.1242937853107
+        }
+    },
+    "Cars311": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "67",
+            "ymin": "91",
+            "xmax": "95",
+            "ymax": "98"
+        },
+        "bndbox_resized": {
+            "xmin": 100.5,
+            "xmax": 142.5,
+            "ymin": 136.32958801498128,
+            "ymax": 146.81647940074907
+        }
+    },
+    "Cars312": {
+        "size": {
+            "width": "590",
+            "height": "350",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "111",
+            "ymin": "66",
+            "xmax": "518",
+            "ymax": "246"
+        },
+        "bndbox_resized": {
+            "xmin": 112.88135593220339,
+            "xmax": 526.7796610169491,
+            "ymin": 75.42857142857143,
+            "ymax": 281.1428571428571
+        }
+    },
+    "Cars313": {
+        "size": {
+            "width": "400",
+            "height": "319",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "176",
+            "ymin": "211",
+            "xmax": "252",
+            "ymax": "246"
+        },
+        "bndbox_resized": {
+            "xmin": 264.0,
+            "xmax": 378.0,
+            "ymin": 264.576802507837,
+            "ymax": 308.4639498432602
+        }
+    },
+    "Cars314": {
+        "size": {
+            "width": "400",
+            "height": "209",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "195",
+            "ymin": "149",
+            "xmax": "274",
+            "ymax": "209"
+        },
+        "bndbox_resized": {
+            "xmin": 292.5,
+            "xmax": 411.0,
+            "ymin": 285.1674641148325,
+            "ymax": 400.0
+        }
+    },
+    "Cars315": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "12",
+            "ymin": "98",
+            "xmax": "385",
+            "ymax": "181"
+        },
+        "bndbox_resized": {
+            "xmin": 18.0,
+            "xmax": 577.5,
+            "ymin": 130.66666666666666,
+            "ymax": 241.33333333333331
+        }
+    },
+    "Cars316": {
+        "size": {
+            "width": "600",
+            "height": "450",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "379",
+            "ymin": "192",
+            "xmax": "455",
+            "ymax": "220"
+        },
+        "bndbox_resized": {
+            "xmin": 379.0,
+            "xmax": 455.0,
+            "ymin": 170.66666666666666,
+            "ymax": 195.55555555555554
+        }
+    },
+    "Cars317": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "164",
+            "ymin": "202",
+            "xmax": "240",
+            "ymax": "220"
+        },
+        "bndbox_resized": {
+            "xmin": 246.0,
+            "xmax": 360.0,
+            "ymin": 269.3333333333333,
+            "ymax": 293.3333333333333
+        }
+    },
+    "Cars318": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "119",
+            "ymin": "117",
+            "xmax": "263",
+            "ymax": "160"
+        },
+        "bndbox_resized": {
+            "xmin": 178.5,
+            "xmax": 394.5,
+            "ymin": 208.0,
+            "ymax": 284.44444444444446
+        }
+    },
+    "Cars319": {
+        "size": {
+            "width": "400",
+            "height": "342",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "167",
+            "ymin": "228",
+            "xmax": "232",
+            "ymax": "259"
+        },
+        "bndbox_resized": {
+            "xmin": 250.5,
+            "xmax": 348.0,
+            "ymin": 266.66666666666663,
+            "ymax": 302.9239766081871
+        }
+    },
+    "Cars32": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "200",
+            "ymin": "149",
+            "xmax": "251",
+            "ymax": "167"
+        },
+        "bndbox_resized": {
+            "xmin": 300.0,
+            "xmax": 376.5,
+            "ymin": 198.66666666666666,
+            "ymax": 222.66666666666666
+        }
+    },
+    "Cars320": {
+        "size": {
+            "width": "375",
+            "height": "500",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "99",
+            "ymin": "225",
+            "xmax": "257",
+            "ymax": "266"
+        },
+        "bndbox_resized": {
+            "xmin": 158.4,
+            "xmax": 411.20000000000005,
+            "ymin": 180.0,
+            "ymax": 212.8
+        }
+    },
+    "Cars321": {
+        "size": {
+            "width": "301",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "134",
+            "ymin": "235",
+            "xmax": "169",
+            "ymax": "246"
+        },
+        "bndbox_resized": {
+            "xmin": 267.109634551495,
+            "xmax": 336.8770764119601,
+            "ymin": 235.0,
+            "ymax": 246.0
+        }
+    },
+    "Cars322": {
+        "size": {
+            "width": "400",
+            "height": "354",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "274",
+            "ymin": "257",
+            "xmax": "350",
+            "ymax": "297"
+        },
+        "bndbox_resized": {
+            "xmin": 411.0,
+            "xmax": 525.0,
+            "ymin": 290.3954802259887,
+            "ymax": 335.59322033898303
+        }
+    },
+    "Cars323": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "123",
+            "ymin": "28",
+            "xmax": "279",
+            "ymax": "65"
+        },
+        "bndbox_resized": {
+            "xmin": 184.5,
+            "xmax": 418.5,
+            "ymin": 49.77777777777777,
+            "ymax": 115.55555555555554
+        }
+    },
+    "Cars324": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "151",
+            "ymin": "138",
+            "xmax": "255",
+            "ymax": "159"
+        },
+        "bndbox_resized": {
+            "xmin": 226.5,
+            "xmax": 382.5,
+            "ymin": 245.33333333333331,
+            "ymax": 282.66666666666663
+        }
+    },
+    "Cars325": {
+        "size": {
+            "width": "400",
+            "height": "226",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "230",
+            "ymin": "180",
+            "xmax": "262",
+            "ymax": "196"
+        },
+        "bndbox_resized": {
+            "xmin": 345.0,
+            "xmax": 393.0,
+            "ymin": 318.5840707964602,
+            "ymax": 346.9026548672567
+        }
+    },
+    "Cars326": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "141",
+            "ymin": "198",
+            "xmax": "252",
+            "ymax": "230"
+        },
+        "bndbox_resized": {
+            "xmin": 211.5,
+            "xmax": 378.0,
+            "ymin": 264.0,
+            "ymax": 306.66666666666663
+        }
+    },
+    "Cars327": {
+        "size": {
+            "width": "400",
+            "height": "248",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "138",
+            "ymin": "126",
+            "xmax": "262",
+            "ymax": "155"
+        },
+        "bndbox_resized": {
+            "xmin": 207.0,
+            "xmax": 393.0,
+            "ymin": 203.2258064516129,
+            "ymax": 249.99999999999997
+        }
+    },
+    "Cars328": {
+        "size": {
+            "width": "400",
+            "height": "233",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "156",
+            "ymin": "149",
+            "xmax": "248",
+            "ymax": "170"
+        },
+        "bndbox_resized": {
+            "xmin": 234.0,
+            "xmax": 372.0,
+            "ymin": 255.793991416309,
+            "ymax": 291.84549356223175
+        }
+    },
+    "Cars329": {
+        "size": {
+            "width": "400",
+            "height": "255",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "166",
+            "ymin": "142",
+            "xmax": "224",
+            "ymax": "176"
+        },
+        "bndbox_resized": {
+            "xmin": 249.0,
+            "xmax": 336.0,
+            "ymin": 222.7450980392157,
+            "ymax": 276.078431372549
+        }
+    },
+    "Cars33": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "94",
+            "ymin": "56",
+            "xmax": "306",
+            "ymax": "169"
+        },
+        "bndbox_resized": {
+            "xmin": 141.0,
+            "xmax": 459.0,
+            "ymin": 99.55555555555554,
+            "ymax": 300.4444444444444
+        }
+    },
+    "Cars330": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "385",
+            "ymin": "172",
+            "xmax": "399",
+            "ymax": "181"
+        },
+        "bndbox_resized": {
+            "xmin": 577.5,
+            "xmax": 598.5,
+            "ymin": 229.33333333333331,
+            "ymax": 241.33333333333331
+        }
+    },
+    "Cars331": {
+        "size": {
+            "width": "560",
+            "height": "420",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "164",
+            "ymin": "220",
+            "xmax": "235",
+            "ymax": "240"
+        },
+        "bndbox_resized": {
+            "xmin": 175.71428571428572,
+            "xmax": 251.78571428571428,
+            "ymin": 209.52380952380952,
+            "ymax": 228.57142857142856
+        }
+    },
+    "Cars332": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "143",
+            "ymin": "126",
+            "xmax": "260",
+            "ymax": "159"
+        },
+        "bndbox_resized": {
+            "xmin": 214.5,
+            "xmax": 390.0,
+            "ymin": 224.0,
+            "ymax": 282.66666666666663
+        }
+    },
+    "Cars333": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "117",
+            "ymin": "157",
+            "xmax": "270",
+            "ymax": "191"
+        },
+        "bndbox_resized": {
+            "xmin": 175.5,
+            "xmax": 405.0,
+            "ymin": 235.2059925093633,
+            "ymax": 286.14232209737827
+        }
+    },
+    "Cars334": {
+        "size": {
+            "width": "400",
+            "height": "204",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "155",
+            "ymin": "146",
+            "xmax": "211",
+            "ymax": "162"
+        },
+        "bndbox_resized": {
+            "xmin": 232.5,
+            "xmax": 316.5,
+            "ymin": 286.27450980392155,
+            "ymax": 317.6470588235294
+        }
+    },
+    "Cars335": {
+        "size": {
+            "width": "399",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "156",
+            "ymin": "163",
+            "xmax": "221",
+            "ymax": "198"
+        },
+        "bndbox_resized": {
+            "xmin": 234.58646616541353,
+            "xmax": 332.33082706766913,
+            "ymin": 163.0,
+            "ymax": 198.0
+        }
+    },
+    "Cars336": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "122",
+            "ymin": "195",
+            "xmax": "265",
+            "ymax": "234"
+        },
+        "bndbox_resized": {
+            "xmin": 183.0,
+            "xmax": 397.5,
+            "ymin": 260.0,
+            "ymax": 312.0
+        }
+    },
+    "Cars337": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "119",
+            "ymin": "131",
+            "xmax": "136",
+            "ymax": "154"
+        },
+        "bndbox_resized": {
+            "xmin": 178.5,
+            "xmax": 204.0,
+            "ymin": 174.66666666666666,
+            "ymax": 205.33333333333331
+        }
+    },
+    "Cars338": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "297",
+            "ymin": "193",
+            "xmax": "316",
+            "ymax": "205"
+        },
+        "bndbox_resized": {
+            "xmin": 445.5,
+            "xmax": 474.0,
+            "ymin": 289.13857677902627,
+            "ymax": 307.1161048689139
+        }
+    },
+    "Cars339": {
+        "size": {
+            "width": "500",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "209",
+            "ymin": "135",
+            "xmax": "283",
+            "ymax": "169"
+        },
+        "bndbox_resized": {
+            "xmin": 250.79999999999998,
+            "xmax": 339.59999999999997,
+            "ymin": 180.0,
+            "ymax": 225.33333333333331
+        }
+    },
+    "Cars34": {
+        "size": {
+            "width": "400",
+            "height": "332",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "147",
+            "ymin": "181",
+            "xmax": "260",
+            "ymax": "206"
+        },
+        "bndbox_resized": {
+            "xmin": 220.5,
+            "xmax": 390.0,
+            "ymin": 218.07228915662654,
+            "ymax": 248.19277108433738
+        }
+    },
+    "Cars340": {
+        "size": {
+            "width": "400",
+            "height": "200",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "270",
+            "ymin": "126",
+            "xmax": "321",
+            "ymax": "143"
+        },
+        "bndbox_resized": {
+            "xmin": 405.0,
+            "xmax": 481.5,
+            "ymin": 252.0,
+            "ymax": 286.0
+        }
+    },
+    "Cars341": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "47",
+            "ymin": "161",
+            "xmax": "115",
+            "ymax": "192"
+        },
+        "bndbox_resized": {
+            "xmin": 70.5,
+            "xmax": 172.5,
+            "ymin": 241.1985018726592,
+            "ymax": 287.64044943820227
+        }
+    },
+    "Cars342": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "196",
+            "ymin": "148",
+            "xmax": "253",
+            "ymax": "169"
+        },
+        "bndbox_resized": {
+            "xmin": 294.0,
+            "xmax": 379.5,
+            "ymin": 197.33333333333331,
+            "ymax": 225.33333333333331
+        }
+    },
+    "Cars343": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "110",
+            "ymin": "186",
+            "xmax": "162",
+            "ymax": "209"
+        },
+        "bndbox_resized": {
+            "xmin": 165.0,
+            "xmax": 243.0,
+            "ymin": 248.0,
+            "ymax": 278.66666666666663
+        }
+    },
+    "Cars344": {
+        "size": {
+            "width": "450",
+            "height": "299",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "240",
+            "ymin": "158",
+            "xmax": "379",
+            "ymax": "217"
+        },
+        "bndbox_resized": {
+            "xmin": 320.0,
+            "xmax": 505.3333333333333,
+            "ymin": 211.37123745819397,
+            "ymax": 290.3010033444816
+        }
+    },
+    "Cars345": {
+        "size": {
+            "width": "400",
+            "height": "299",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "173",
+            "ymin": "143",
+            "xmax": "247",
+            "ymax": "182"
+        },
+        "bndbox_resized": {
+            "xmin": 259.5,
+            "xmax": 370.5,
+            "ymin": 191.30434782608697,
+            "ymax": 243.47826086956522
+        }
+    },
+    "Cars346": {
+        "size": {
+            "width": "400",
+            "height": "246",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "91",
+            "ymin": "185",
+            "xmax": "197",
+            "ymax": "217"
+        },
+        "bndbox_resized": {
+            "xmin": 136.5,
+            "xmax": 295.5,
+            "ymin": 300.8130081300813,
+            "ymax": 352.8455284552845
+        }
+    },
+    "Cars347": {
+        "size": {
+            "width": "400",
+            "height": "210",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "227",
+            "ymin": "124",
+            "xmax": "252",
+            "ymax": "135"
+        },
+        "bndbox_resized": {
+            "xmin": 340.5,
+            "xmax": 378.0,
+            "ymin": 236.19047619047618,
+            "ymax": 257.1428571428571
+        }
+    },
+    "Cars348": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "156",
+            "ymin": "121",
+            "xmax": "250",
+            "ymax": "204"
+        },
+        "bndbox_resized": {
+            "xmin": 234.0,
+            "xmax": 375.0,
+            "ymin": 215.1111111111111,
+            "ymax": 362.66666666666663
+        }
+    },
+    "Cars349": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "38",
+            "ymin": "225",
+            "xmax": "146",
+            "ymax": "249"
+        },
+        "bndbox_resized": {
+            "xmin": 57.0,
+            "xmax": 219.0,
+            "ymin": 337.0786516853933,
+            "ymax": 373.0337078651686
+        }
+    },
+    "Cars35": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "91",
+            "ymin": "186",
+            "xmax": "137",
+            "ymax": "208"
+        },
+        "bndbox_resized": {
+            "xmin": 136.5,
+            "xmax": 205.5,
+            "ymin": 278.65168539325845,
+            "ymax": 311.6104868913858
+        }
+    },
+    "Cars350": {
+        "size": {
+            "width": "400",
+            "height": "268",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "162",
+            "ymin": "179",
+            "xmax": "211",
+            "ymax": "188"
+        },
+        "bndbox_resized": {
+            "xmin": 243.0,
+            "xmax": 316.5,
+            "ymin": 267.1641791044776,
+            "ymax": 280.5970149253732
+        }
+    },
+    "Cars351": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "249",
+            "ymin": "48",
+            "xmax": "368",
+            "ymax": "129"
+        },
+        "bndbox_resized": {
+            "xmin": 373.5,
+            "xmax": 552.0,
+            "ymin": 85.33333333333333,
+            "ymax": 229.33333333333331
+        }
+    },
+    "Cars352": {
+        "size": {
+            "width": "300",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "77",
+            "ymin": "181",
+            "xmax": "94",
+            "ymax": "191"
+        },
+        "bndbox_resized": {
+            "xmin": 154.0,
+            "xmax": 188.0,
+            "ymin": 181.0,
+            "ymax": 191.0
+        }
+    },
+    "Cars353": {
+        "size": {
+            "width": "400",
+            "height": "246",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "93",
+            "ymin": "189",
+            "xmax": "201",
+            "ymax": "221"
+        },
+        "bndbox_resized": {
+            "xmin": 139.5,
+            "xmax": 301.5,
+            "ymin": 307.3170731707317,
+            "ymax": 359.3495934959349
+        }
+    },
+    "Cars354": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "65",
+            "ymin": "202",
+            "xmax": "102",
+            "ymax": "222"
+        },
+        "bndbox_resized": {
+            "xmin": 97.5,
+            "xmax": 153.0,
+            "ymin": 302.62172284644197,
+            "ymax": 332.5842696629214
+        }
+    },
+    "Cars355": {
+        "size": {
+            "width": "400",
+            "height": "266",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "164",
+            "ymin": "154",
+            "xmax": "239",
+            "ymax": "190"
+        },
+        "bndbox_resized": {
+            "xmin": 246.0,
+            "xmax": 358.5,
+            "ymin": 231.57894736842104,
+            "ymax": 285.7142857142857
+        }
+    },
+    "Cars356": {
+        "size": {
+            "width": "550",
+            "height": "367",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "241",
+            "ymin": "216",
+            "xmax": "364",
+            "ymax": "275"
+        },
+        "bndbox_resized": {
+            "xmin": 262.9090909090909,
+            "xmax": 397.09090909090907,
+            "ymin": 235.4223433242507,
+            "ymax": 299.72752043596734
+        }
+    },
+    "Cars357": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "92",
+            "ymin": "187",
+            "xmax": "137",
+            "ymax": "207"
+        },
+        "bndbox_resized": {
+            "xmin": 138.0,
+            "xmax": 205.5,
+            "ymin": 280.1498127340824,
+            "ymax": 310.1123595505618
+        }
+    },
+    "Cars358": {
+        "size": {
+            "width": "400",
+            "height": "200",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "296",
+            "ymin": "122",
+            "xmax": "358",
+            "ymax": "135"
+        },
+        "bndbox_resized": {
+            "xmin": 444.0,
+            "xmax": 537.0,
+            "ymin": 244.0,
+            "ymax": 270.0
+        }
+    },
+    "Cars359": {
+        "size": {
+            "width": "400",
+            "height": "284",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "228",
+            "ymin": "228",
+            "xmax": "266",
+            "ymax": "240"
+        },
+        "bndbox_resized": {
+            "xmin": 342.0,
+            "xmax": 399.0,
+            "ymin": 321.12676056338023,
+            "ymax": 338.0281690140845
+        }
+    },
+    "Cars36": {
+        "size": {
+            "width": "500",
+            "height": "375",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "203",
+            "ymin": "193",
+            "xmax": "285",
+            "ymax": "229"
+        },
+        "bndbox_resized": {
+            "xmin": 243.6,
+            "xmax": 342.0,
+            "ymin": 205.86666666666667,
+            "ymax": 244.26666666666665
+        }
+    },
+    "Cars360": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "52",
+            "ymin": "167",
+            "xmax": "94",
+            "ymax": "200"
+        },
+        "bndbox_resized": {
+            "xmin": 78.0,
+            "xmax": 141.0,
+            "ymin": 296.88888888888886,
+            "ymax": 355.55555555555554
+        }
+    },
+    "Cars361": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "148",
+            "ymin": "113",
+            "xmax": "305",
+            "ymax": "178"
+        },
+        "bndbox_resized": {
+            "xmin": 222.0,
+            "xmax": 457.5,
+            "ymin": 150.66666666666666,
+            "ymax": 237.33333333333331
+        }
+    },
+    "Cars362": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "139",
+            "ymin": "172",
+            "xmax": "162",
+            "ymax": "179"
+        },
+        "bndbox_resized": {
+            "xmin": 208.5,
+            "xmax": 243.0,
+            "ymin": 229.33333333333331,
+            "ymax": 238.66666666666666
+        }
+    },
+    "Cars363": {
+        "size": {
+            "width": "400",
+            "height": "265",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "153",
+            "ymin": "169",
+            "xmax": "254",
+            "ymax": "204"
+        },
+        "bndbox_resized": {
+            "xmin": 229.5,
+            "xmax": 381.0,
+            "ymin": 255.09433962264154,
+            "ymax": 307.9245283018868
+        }
+    },
+    "Cars364": {
+        "size": {
+            "width": "400",
+            "height": "242",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "61",
+            "ymin": "140",
+            "xmax": "115",
+            "ymax": "167"
+        },
+        "bndbox_resized": {
+            "xmin": 91.5,
+            "xmax": 172.5,
+            "ymin": 231.40495867768595,
+            "ymax": 276.0330578512397
+        }
+    },
+    "Cars365": {
+        "size": {
+            "width": "600",
+            "height": "399",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "293",
+            "ymin": "205",
+            "xmax": "373",
+            "ymax": "226"
+        },
+        "bndbox_resized": {
+            "xmin": 293.0,
+            "xmax": 373.0,
+            "ymin": 205.51378446115288,
+            "ymax": 226.56641604010025
+        }
+    },
+    "Cars366": {
+        "size": {
+            "width": "471",
+            "height": "270",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "144",
+            "ymin": "112",
+            "xmax": "316",
+            "ymax": "160"
+        },
+        "bndbox_resized": {
+            "xmin": 183.43949044585986,
+            "xmax": 402.54777070063693,
+            "ymin": 165.92592592592592,
+            "ymax": 237.037037037037
+        }
+    },
+    "Cars367": {
+        "size": {
+            "width": "450",
+            "height": "299",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "224",
+            "ymin": "161",
+            "xmax": "382",
+            "ymax": "222"
+        },
+        "bndbox_resized": {
+            "xmin": 298.66666666666663,
+            "xmax": 509.3333333333333,
+            "ymin": 215.3846153846154,
+            "ymax": 296.98996655518397
+        }
+    },
+    "Cars368": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "173",
+            "ymin": "173",
+            "xmax": "223",
+            "ymax": "203"
+        },
+        "bndbox_resized": {
+            "xmin": 259.5,
+            "xmax": 334.5,
+            "ymin": 230.66666666666666,
+            "ymax": 270.66666666666663
+        }
+    },
+    "Cars369": {
+        "size": {
+            "width": "500",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "176",
+            "ymin": "253",
+            "xmax": "325",
+            "ymax": "280"
+        },
+        "bndbox_resized": {
+            "xmin": 211.2,
+            "xmax": 390.0,
+            "ymin": 253.0,
+            "ymax": 280.0
+        }
+    },
+    "Cars37": {
+        "size": {
+            "width": "400",
+            "height": "268",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "146",
+            "ymin": "114",
+            "xmax": "246",
+            "ymax": "163"
+        },
+        "bndbox_resized": {
+            "xmin": 219.0,
+            "xmax": 369.0,
+            "ymin": 170.1492537313433,
+            "ymax": 243.28358208955225
+        }
+    },
+    "Cars370": {
+        "size": {
+            "width": "435",
+            "height": "290",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "285",
+            "ymin": "249",
+            "xmax": "425",
+            "ymax": "276"
+        },
+        "bndbox_resized": {
+            "xmin": 393.1034482758621,
+            "xmax": 586.2068965517242,
+            "ymin": 343.448275862069,
+            "ymax": 380.68965517241384
+        }
+    },
+    "Cars371": {
+        "size": {
+            "width": "400",
+            "height": "190",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "313",
+            "ymin": "135",
+            "xmax": "371",
+            "ymax": "150"
+        },
+        "bndbox_resized": {
+            "xmin": 469.5,
+            "xmax": 556.5,
+            "ymin": 284.2105263157895,
+            "ymax": 315.7894736842105
+        }
+    },
+    "Cars372": {
+        "size": {
+            "width": "560",
+            "height": "420",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "221",
+            "ymin": "275",
+            "xmax": "353",
+            "ymax": "309"
+        },
+        "bndbox_resized": {
+            "xmin": 236.78571428571428,
+            "xmax": 378.2142857142857,
+            "ymin": 261.90476190476187,
+            "ymax": 294.2857142857143
+        }
+    },
+    "Cars373": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "161",
+            "ymin": "132",
+            "xmax": "264",
+            "ymax": "157"
+        },
+        "bndbox_resized": {
+            "xmin": 241.5,
+            "xmax": 396.0,
+            "ymin": 234.66666666666666,
+            "ymax": 279.1111111111111
+        }
+    },
+    "Cars374": {
+        "size": {
+            "width": "508",
+            "height": "262",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "354",
+            "ymin": "118",
+            "xmax": "441",
+            "ymax": "142"
+        },
+        "bndbox_resized": {
+            "xmin": 418.1102362204724,
+            "xmax": 520.8661417322834,
+            "ymin": 180.1526717557252,
+            "ymax": 216.793893129771
+        }
+    },
+    "Cars375": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "144",
+            "ymin": "114",
+            "xmax": "300",
+            "ymax": "145"
+        },
+        "bndbox_resized": {
+            "xmin": 216.0,
+            "xmax": 450.0,
+            "ymin": 152.0,
+            "ymax": 193.33333333333331
+        }
+    },
+    "Cars376": {
+        "size": {
+            "width": "400",
+            "height": "265",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "159",
+            "ymin": "178",
+            "xmax": "252",
+            "ymax": "203"
+        },
+        "bndbox_resized": {
+            "xmin": 238.5,
+            "xmax": 378.0,
+            "ymin": 268.6792452830189,
+            "ymax": 306.41509433962267
+        }
+    },
+    "Cars377": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "177",
+            "ymin": "138",
+            "xmax": "216",
+            "ymax": "161"
+        },
+        "bndbox_resized": {
+            "xmin": 265.5,
+            "xmax": 324.0,
+            "ymin": 245.33333333333331,
+            "ymax": 286.22222222222223
+        }
+    },
+    "Cars378": {
+        "size": {
+            "width": "400",
+            "height": "307",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "118",
+            "ymin": "92",
+            "xmax": "254",
+            "ymax": "137"
+        },
+        "bndbox_resized": {
+            "xmin": 177.0,
+            "xmax": 381.0,
+            "ymin": 119.86970684039088,
+            "ymax": 178.50162866449512
+        }
+    },
+    "Cars379": {
+        "size": {
+            "width": "400",
+            "height": "353",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "197",
+            "ymin": "197",
+            "xmax": "351",
+            "ymax": "245"
+        },
+        "bndbox_resized": {
+            "xmin": 295.5,
+            "xmax": 526.5,
+            "ymin": 223.22946175637395,
+            "ymax": 277.62039660056655
+        }
+    },
+    "Cars38": {
+        "size": {
+            "width": "386",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "168",
+            "ymin": "196",
+            "xmax": "240",
+            "ymax": "231"
+        },
+        "bndbox_resized": {
+            "xmin": 261.139896373057,
+            "xmax": 373.05699481865287,
+            "ymin": 196.0,
+            "ymax": 231.0
+        }
+    },
+    "Cars380": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "316",
+            "ymin": "91",
+            "xmax": "364",
+            "ymax": "126"
+        },
+        "bndbox_resized": {
+            "xmin": 474.0,
+            "xmax": 546.0,
+            "ymin": 161.77777777777777,
+            "ymax": 224.0
+        }
+    },
+    "Cars381": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "65",
+            "ymin": "131",
+            "xmax": "147",
+            "ymax": "155"
+        },
+        "bndbox_resized": {
+            "xmin": 97.5,
+            "xmax": 220.5,
+            "ymin": 232.88888888888889,
+            "ymax": 275.55555555555554
+        }
+    },
+    "Cars382": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "149",
+            "ymin": "206",
+            "xmax": "285",
+            "ymax": "240"
+        },
+        "bndbox_resized": {
+            "xmin": 223.5,
+            "xmax": 427.5,
+            "ymin": 274.66666666666663,
+            "ymax": 320.0
+        }
+    },
+    "Cars383": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "54",
+            "ymin": "216",
+            "xmax": "88",
+            "ymax": "228"
+        },
+        "bndbox_resized": {
+            "xmin": 81.0,
+            "xmax": 132.0,
+            "ymin": 323.59550561797755,
+            "ymax": 341.5730337078652
+        }
+    },
+    "Cars384": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "219",
+            "ymin": "194",
+            "xmax": "271",
+            "ymax": "230"
+        },
+        "bndbox_resized": {
+            "xmin": 328.5,
+            "xmax": 406.5,
+            "ymin": 258.66666666666663,
+            "ymax": 306.66666666666663
+        }
+    },
+    "Cars385": {
+        "size": {
+            "width": "400",
+            "height": "250",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "69",
+            "ymin": "75",
+            "xmax": "310",
+            "ymax": "191"
+        },
+        "bndbox_resized": {
+            "xmin": 103.5,
+            "xmax": 465.0,
+            "ymin": 120.0,
+            "ymax": 305.6
+        }
+    },
+    "Cars386": {
+        "size": {
+            "width": "600",
+            "height": "450",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "83",
+            "ymin": "307",
+            "xmax": "221",
+            "ymax": "368"
+        },
+        "bndbox_resized": {
+            "xmin": 83.0,
+            "xmax": 221.0,
+            "ymin": 272.88888888888886,
+            "ymax": 327.1111111111111
+        }
+    },
+    "Cars387": {
+        "size": {
+            "width": "430",
+            "height": "286",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "163",
+            "ymin": "187",
+            "xmax": "256",
+            "ymax": "225"
+        },
+        "bndbox_resized": {
+            "xmin": 227.4418604651163,
+            "xmax": 357.2093023255814,
+            "ymin": 261.53846153846155,
+            "ymax": 314.68531468531467
+        }
+    },
+    "Cars388": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "149",
+            "ymin": "130",
+            "xmax": "255",
+            "ymax": "158"
+        },
+        "bndbox_resized": {
+            "xmin": 223.5,
+            "xmax": 382.5,
+            "ymin": 173.33333333333331,
+            "ymax": 210.66666666666666
+        }
+    },
+    "Cars389": {
+        "size": {
+            "width": "600",
+            "height": "450",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "77",
+            "ymin": "305",
+            "xmax": "222",
+            "ymax": "370"
+        },
+        "bndbox_resized": {
+            "xmin": 77.0,
+            "xmax": 222.0,
+            "ymin": 271.1111111111111,
+            "ymax": 328.88888888888886
+        }
+    },
+    "Cars39": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "225",
+            "ymin": "180",
+            "xmax": "328",
+            "ymax": "213"
+        },
+        "bndbox_resized": {
+            "xmin": 337.5,
+            "xmax": 492.0,
+            "ymin": 240.0,
+            "ymax": 284.0
+        }
+    },
+    "Cars390": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "6",
+            "ymin": "144",
+            "xmax": "49",
+            "ymax": "162"
+        },
+        "bndbox_resized": {
+            "xmin": 9.0,
+            "xmax": 73.5,
+            "ymin": 192.0,
+            "ymax": 216.0
+        }
+    },
+    "Cars391": {
+        "size": {
+            "width": "431",
+            "height": "242",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "270",
+            "ymin": "163",
+            "xmax": "320",
+            "ymax": "190"
+        },
+        "bndbox_resized": {
+            "xmin": 375.87006960556846,
+            "xmax": 445.4756380510441,
+            "ymin": 269.4214876033058,
+            "ymax": 314.0495867768595
+        }
+    },
+    "Cars392": {
+        "size": {
+            "width": "400",
+            "height": "262",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "144",
+            "ymin": "150",
+            "xmax": "260",
+            "ymax": "209"
+        },
+        "bndbox_resized": {
+            "xmin": 216.0,
+            "xmax": 390.0,
+            "ymin": 229.00763358778627,
+            "ymax": 319.08396946564886
+        }
+    },
+    "Cars393": {
+        "size": {
+            "width": "400",
+            "height": "218",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "94",
+            "ymin": "171",
+            "xmax": "211",
+            "ymax": "208"
+        },
+        "bndbox_resized": {
+            "xmin": 141.0,
+            "xmax": 316.5,
+            "ymin": 313.76146788990826,
+            "ymax": 381.651376146789
+        }
+    },
+    "Cars394": {
+        "size": {
+            "width": "555",
+            "height": "416",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "291",
+            "ymin": "167",
+            "xmax": "410",
+            "ymax": "190"
+        },
+        "bndbox_resized": {
+            "xmin": 314.59459459459464,
+            "xmax": 443.2432432432433,
+            "ymin": 160.5769230769231,
+            "ymax": 182.6923076923077
+        }
+    },
+    "Cars395": {
+        "size": {
+            "width": "400",
+            "height": "301",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "241",
+            "ymin": "182",
+            "xmax": "288",
+            "ymax": "205"
+        },
+        "bndbox_resized": {
+            "xmin": 361.5,
+            "xmax": 432.0,
+            "ymin": 241.86046511627907,
+            "ymax": 272.42524916943523
+        }
+    },
+    "Cars396": {
+        "size": {
+            "width": "282",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "181",
+            "ymin": "264",
+            "xmax": "269",
+            "ymax": "289"
+        },
+        "bndbox_resized": {
+            "xmin": 385.1063829787234,
+            "xmax": 572.3404255319149,
+            "ymin": 264.0,
+            "ymax": 289.0
+        }
+    },
+    "Cars397": {
+        "size": {
+            "width": "400",
+            "height": "299",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "144",
+            "ymin": "169",
+            "xmax": "216",
+            "ymax": "212"
+        },
+        "bndbox_resized": {
+            "xmin": 216.0,
+            "xmax": 324.0,
+            "ymin": 226.08695652173913,
+            "ymax": 283.61204013377926
+        }
+    },
+    "Cars398": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "72",
+            "ymin": "139",
+            "xmax": "196",
+            "ymax": "222"
+        },
+        "bndbox_resized": {
+            "xmin": 108.0,
+            "xmax": 294.0,
+            "ymin": 185.33333333333331,
+            "ymax": 296.0
+        }
+    },
+    "Cars399": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "106",
+            "ymin": "62",
+            "xmax": "309",
+            "ymax": "161"
+        },
+        "bndbox_resized": {
+            "xmin": 159.0,
+            "xmax": 463.5,
+            "ymin": 110.22222222222221,
+            "ymax": 286.22222222222223
+        }
+    },
+    "Cars4": {
+        "size": {
+            "width": "590",
+            "height": "350",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "156",
+            "ymin": "82",
+            "xmax": "503",
+            "ymax": "253"
+        },
+        "bndbox_resized": {
+            "xmin": 158.64406779661016,
+            "xmax": 511.52542372881356,
+            "ymin": 93.71428571428571,
+            "ymax": 289.1428571428571
+        }
+    },
+    "Cars40": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "261",
+            "ymin": "186",
+            "xmax": "317",
+            "ymax": "211"
+        },
+        "bndbox_resized": {
+            "xmin": 391.5,
+            "xmax": 475.5,
+            "ymin": 330.66666666666663,
+            "ymax": 375.1111111111111
+        }
+    },
+    "Cars400": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "303",
+            "ymin": "191",
+            "xmax": "340",
+            "ymax": "217"
+        },
+        "bndbox_resized": {
+            "xmin": 454.5,
+            "xmax": 510.0,
+            "ymin": 286.14232209737827,
+            "ymax": 325.09363295880155
+        }
+    },
+    "Cars401": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "158",
+            "ymin": "223",
+            "xmax": "238",
+            "ymax": "240"
+        },
+        "bndbox_resized": {
+            "xmin": 237.0,
+            "xmax": 357.0,
+            "ymin": 297.3333333333333,
+            "ymax": 320.0
+        }
+    },
+    "Cars402": {
+        "size": {
+            "width": "450",
+            "height": "270",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "360",
+            "ymin": "165",
+            "xmax": "438",
+            "ymax": "181"
+        },
+        "bndbox_resized": {
+            "xmin": 480.0,
+            "xmax": 584.0,
+            "ymin": 244.44444444444443,
+            "ymax": 268.14814814814815
+        }
+    },
+    "Cars403": {
+        "size": {
+            "width": "400",
+            "height": "320",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "23",
+            "ymin": "173",
+            "xmax": "54",
+            "ymax": "192"
+        },
+        "bndbox_resized": {
+            "xmin": 34.5,
+            "xmax": 81.0,
+            "ymin": 216.25,
+            "ymax": 240.0
+        }
+    },
+    "Cars404": {
+        "size": {
+            "width": "370",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "162",
+            "ymin": "208",
+            "xmax": "235",
+            "ymax": "244"
+        },
+        "bndbox_resized": {
+            "xmin": 262.7027027027027,
+            "xmax": 381.0810810810811,
+            "ymin": 208.0,
+            "ymax": 244.0
+        }
+    },
+    "Cars405": {
+        "size": {
+            "width": "586",
+            "height": "331",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "241",
+            "ymin": "207",
+            "xmax": "299",
+            "ymax": "232"
+        },
+        "bndbox_resized": {
+            "xmin": 246.75767918088735,
+            "xmax": 306.1433447098976,
+            "ymin": 250.15105740181266,
+            "ymax": 280.36253776435046
+        }
+    },
+    "Cars406": {
+        "size": {
+            "width": "600",
+            "height": "411",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "285",
+            "ymin": "185",
+            "xmax": "374",
+            "ymax": "226"
+        },
+        "bndbox_resized": {
+            "xmin": 285.0,
+            "xmax": 374.0,
+            "ymin": 180.04866180048663,
+            "ymax": 219.9513381995134
+        }
+    },
+    "Cars407": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "311",
+            "ymin": "183",
+            "xmax": "346",
+            "ymax": "202"
+        },
+        "bndbox_resized": {
+            "xmin": 466.5,
+            "xmax": 519.0,
+            "ymin": 274.1573033707865,
+            "ymax": 302.62172284644197
+        }
+    },
+    "Cars408": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "160",
+            "ymin": "217",
+            "xmax": "187",
+            "ymax": "228"
+        },
+        "bndbox_resized": {
+            "xmin": 240.0,
+            "xmax": 280.5,
+            "ymin": 325.09363295880155,
+            "ymax": 341.5730337078652
+        }
+    },
+    "Cars409": {
+        "size": {
+            "width": "320",
+            "height": "276",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "116",
+            "ymin": "146",
+            "xmax": "203",
+            "ymax": "168"
+        },
+        "bndbox_resized": {
+            "xmin": 217.5,
+            "xmax": 380.625,
+            "ymin": 211.59420289855072,
+            "ymax": 243.47826086956522
+        }
+    },
+    "Cars41": {
+        "size": {
+            "width": "301",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "109",
+            "ymin": "182",
+            "xmax": "159",
+            "ymax": "206"
+        },
+        "bndbox_resized": {
+            "xmin": 217.27574750830564,
+            "xmax": 316.9435215946844,
+            "ymin": 182.0,
+            "ymax": 206.0
+        }
+    },
+    "Cars410": {
+        "size": {
+            "width": "301",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "51",
+            "ymin": "150",
+            "xmax": "219",
+            "ymax": "212"
+        },
+        "bndbox_resized": {
+            "xmin": 101.6611295681063,
+            "xmax": 436.54485049833886,
+            "ymin": 150.0,
+            "ymax": 212.0
+        }
+    },
+    "Cars411": {
+        "size": {
+            "width": "400",
+            "height": "268",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "160",
+            "ymin": "153",
+            "xmax": "249",
+            "ymax": "197"
+        },
+        "bndbox_resized": {
+            "xmin": 240.0,
+            "xmax": 373.5,
+            "ymin": 228.3582089552239,
+            "ymax": 294.02985074626866
+        }
+    },
+    "Cars412": {
+        "size": {
+            "width": "590",
+            "height": "350",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "221",
+            "ymin": "172",
+            "xmax": "362",
+            "ymax": "202"
+        },
+        "bndbox_resized": {
+            "xmin": 224.7457627118644,
+            "xmax": 368.135593220339,
+            "ymin": 196.57142857142856,
+            "ymax": 230.85714285714283
+        }
+    },
+    "Cars413": {
+        "size": {
+            "width": "400",
+            "height": "256",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "51",
+            "ymin": "170",
+            "xmax": "73",
+            "ymax": "183"
+        },
+        "bndbox_resized": {
+            "xmin": 76.5,
+            "xmax": 109.5,
+            "ymin": 265.625,
+            "ymax": 285.9375
+        }
+    },
+    "Cars414": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "269",
+            "ymin": "206",
+            "xmax": "309",
+            "ymax": "228"
+        },
+        "bndbox_resized": {
+            "xmin": 403.5,
+            "xmax": 463.5,
+            "ymin": 308.61423220973785,
+            "ymax": 341.5730337078652
+        }
+    },
+    "Cars415": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "133",
+            "ymin": "157",
+            "xmax": "261",
+            "ymax": "192"
+        },
+        "bndbox_resized": {
+            "xmin": 199.5,
+            "xmax": 391.5,
+            "ymin": 209.33333333333331,
+            "ymax": 256.0
+        }
+    },
+    "Cars416": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "150",
+            "ymin": "207",
+            "xmax": "234",
+            "ymax": "221"
+        },
+        "bndbox_resized": {
+            "xmin": 225.0,
+            "xmax": 351.0,
+            "ymin": 276.0,
+            "ymax": 294.66666666666663
+        }
+    },
+    "Cars417": {
+        "size": {
+            "width": "400",
+            "height": "295",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "90",
+            "ymin": "145",
+            "xmax": "273",
+            "ymax": "196"
+        },
+        "bndbox_resized": {
+            "xmin": 135.0,
+            "xmax": 409.5,
+            "ymin": 196.61016949152543,
+            "ymax": 265.76271186440675
+        }
+    },
+    "Cars418": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "99",
+            "ymin": "70",
+            "xmax": "303",
+            "ymax": "155"
+        },
+        "bndbox_resized": {
+            "xmin": 148.5,
+            "xmax": 454.5,
+            "ymin": 124.44444444444444,
+            "ymax": 275.55555555555554
+        }
+    },
+    "Cars419": {
+        "size": {
+            "width": "400",
+            "height": "353",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "195",
+            "ymin": "196",
+            "xmax": "349",
+            "ymax": "242"
+        },
+        "bndbox_resized": {
+            "xmin": 292.5,
+            "xmax": 523.5,
+            "ymin": 222.09631728045326,
+            "ymax": 274.22096317280455
+        }
+    },
+    "Cars42": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "177",
+            "ymin": "140",
+            "xmax": "217",
+            "ymax": "159"
+        },
+        "bndbox_resized": {
+            "xmin": 265.5,
+            "xmax": 325.5,
+            "ymin": 248.88888888888889,
+            "ymax": 282.66666666666663
+        }
+    },
+    "Cars420": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "112",
+            "ymin": "186",
+            "xmax": "160",
+            "ymax": "211"
+        },
+        "bndbox_resized": {
+            "xmin": 168.0,
+            "xmax": 240.0,
+            "ymin": 248.0,
+            "ymax": 281.3333333333333
+        }
+    },
+    "Cars421": {
+        "size": {
+            "width": "400",
+            "height": "299",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "95",
+            "ymin": "162",
+            "xmax": "127",
+            "ymax": "183"
+        },
+        "bndbox_resized": {
+            "xmin": 142.5,
+            "xmax": 190.5,
+            "ymin": 216.72240802675586,
+            "ymax": 244.8160535117057
+        }
+    },
+    "Cars422": {
+        "size": {
+            "width": "600",
+            "height": "338",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "159",
+            "ymin": "126",
+            "xmax": "296",
+            "ymax": "182"
+        },
+        "bndbox_resized": {
+            "xmin": 159.0,
+            "xmax": 296.0,
+            "ymin": 149.11242603550298,
+            "ymax": 215.3846153846154
+        }
+    },
+    "Cars423": {
+        "size": {
+            "width": "400",
+            "height": "250",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "162",
+            "ymin": "159",
+            "xmax": "283",
+            "ymax": "183"
+        },
+        "bndbox_resized": {
+            "xmin": 243.0,
+            "xmax": 424.5,
+            "ymin": 254.4,
+            "ymax": 292.8
+        }
+    },
+    "Cars424": {
+        "size": {
+            "width": "600",
+            "height": "450",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "128",
+            "ymin": "173",
+            "xmax": "461",
+            "ymax": "242"
+        },
+        "bndbox_resized": {
+            "xmin": 128.0,
+            "xmax": 461.0,
+            "ymin": 153.77777777777777,
+            "ymax": 215.1111111111111
+        }
+    },
+    "Cars425": {
+        "size": {
+            "width": "500",
+            "height": "232",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "211",
+            "ymin": "103",
+            "xmax": "301",
+            "ymax": "132"
+        },
+        "bndbox_resized": {
+            "xmin": 253.2,
+            "xmax": 361.2,
+            "ymin": 177.58620689655172,
+            "ymax": 227.58620689655172
+        }
+    },
+    "Cars426": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "148",
+            "ymin": "206",
+            "xmax": "282",
+            "ymax": "238"
+        },
+        "bndbox_resized": {
+            "xmin": 222.0,
+            "xmax": 423.0,
+            "ymin": 274.66666666666663,
+            "ymax": 317.3333333333333
+        }
+    },
+    "Cars427": {
+        "size": {
+            "width": "600",
+            "height": "450",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "236",
+            "ymin": "193",
+            "xmax": "375",
+            "ymax": "228"
+        },
+        "bndbox_resized": {
+            "xmin": 236.0,
+            "xmax": 375.0,
+            "ymin": 171.55555555555554,
+            "ymax": 202.66666666666666
+        }
+    },
+    "Cars428": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "142",
+            "ymin": "128",
+            "xmax": "258",
+            "ymax": "157"
+        },
+        "bndbox_resized": {
+            "xmin": 213.0,
+            "xmax": 387.0,
+            "ymin": 227.55555555555554,
+            "ymax": 279.1111111111111
+        }
+    },
+    "Cars429": {
+        "size": {
+            "width": "301",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "86",
+            "ymin": "166",
+            "xmax": "208",
+            "ymax": "195"
+        },
+        "bndbox_resized": {
+            "xmin": 171.42857142857142,
+            "xmax": 414.6179401993355,
+            "ymin": 166.0,
+            "ymax": 195.0
+        }
+    },
+    "Cars43": {
+        "size": {
+            "width": "471",
+            "height": "270",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "142",
+            "ymin": "111",
+            "xmax": "319",
+            "ymax": "161"
+        },
+        "bndbox_resized": {
+            "xmin": 180.89171974522293,
+            "xmax": 406.36942675159236,
+            "ymin": 164.44444444444443,
+            "ymax": 238.5185185185185
+        }
+    },
+    "Cars430": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "38",
+            "ymin": "159",
+            "xmax": "116",
+            "ymax": "197"
+        },
+        "bndbox_resized": {
+            "xmin": 57.0,
+            "xmax": 174.0,
+            "ymin": 282.66666666666663,
+            "ymax": 350.22222222222223
+        }
+    },
+    "Cars431": {
+        "size": {
+            "width": "400",
+            "height": "192",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "55",
+            "ymin": "82",
+            "xmax": "343",
+            "ymax": "147"
+        },
+        "bndbox_resized": {
+            "xmin": 82.5,
+            "xmax": 514.5,
+            "ymin": 170.83333333333334,
+            "ymax": 306.25
+        }
+    },
+    "Cars432": {
+        "size": {
+            "width": "467",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "95",
+            "ymin": "258",
+            "xmax": "196",
+            "ymax": "284"
+        },
+        "bndbox_resized": {
+            "xmin": 122.05567451820127,
+            "xmax": 251.82012847965737,
+            "ymin": 344.0,
+            "ymax": 378.66666666666663
+        }
+    },
+    "Cars44": {
+        "size": {
+            "width": "443",
+            "height": "332",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "18",
+            "ymin": "153",
+            "xmax": "430",
+            "ymax": "271"
+        },
+        "bndbox_resized": {
+            "xmin": 24.37923250564334,
+            "xmax": 582.3927765237021,
+            "ymin": 184.33734939759037,
+            "ymax": 326.50602409638554
+        }
+    },
+    "Cars45": {
+        "size": {
+            "width": "400",
+            "height": "251",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "204",
+            "ymin": "103",
+            "xmax": "280",
+            "ymax": "175"
+        },
+        "bndbox_resized": {
+            "xmin": 306.0,
+            "xmax": 420.0,
+            "ymin": 164.1434262948207,
+            "ymax": 278.8844621513944
+        }
+    },
+    "Cars46": {
+        "size": {
+            "width": "400",
+            "height": "353",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "189",
+            "ymin": "193",
+            "xmax": "352",
+            "ymax": "248"
+        },
+        "bndbox_resized": {
+            "xmin": 283.5,
+            "xmax": 528.0,
+            "ymin": 218.69688385269123,
+            "ymax": 281.0198300283286
+        }
+    },
+    "Cars47": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "6",
+            "ymin": "143",
+            "xmax": "48",
+            "ymax": "161"
+        },
+        "bndbox_resized": {
+            "xmin": 9.0,
+            "xmax": 72.0,
+            "ymin": 190.66666666666666,
+            "ymax": 214.66666666666666
+        }
+    },
+    "Cars48": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "95",
+            "ymin": "117",
+            "xmax": "286",
+            "ymax": "155"
+        },
+        "bndbox_resized": {
+            "xmin": 142.5,
+            "xmax": 429.0,
+            "ymin": 208.0,
+            "ymax": 275.55555555555554
+        }
+    },
+    "Cars49": {
+        "size": {
+            "width": "400",
+            "height": "253",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "268",
+            "ymin": "171",
+            "xmax": "314",
+            "ymax": "190"
+        },
+        "bndbox_resized": {
+            "xmin": 402.0,
+            "xmax": 471.0,
+            "ymin": 270.35573122529644,
+            "ymax": 300.39525691699606
+        }
+    },
+    "Cars5": {
+        "size": {
+            "width": "400",
+            "height": "295",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "226",
+            "ymin": "218",
+            "xmax": "242",
+            "ymax": "240"
+        },
+        "bndbox_resized": {
+            "xmin": 339.0,
+            "xmax": 363.0,
+            "ymin": 295.59322033898303,
+            "ymax": 325.4237288135593
+        }
+    },
+    "Cars50": {
+        "size": {
+            "width": "590",
+            "height": "350",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "116",
+            "ymin": "55",
+            "xmax": "525",
+            "ymax": "262"
+        },
+        "bndbox_resized": {
+            "xmin": 117.96610169491525,
+            "xmax": 533.8983050847457,
+            "ymin": 62.857142857142854,
+            "ymax": 299.4285714285714
+        }
+    },
+    "Cars51": {
+        "size": {
+            "width": "400",
+            "height": "266",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "264",
+            "ymin": "141",
+            "xmax": "318",
+            "ymax": "162"
+        },
+        "bndbox_resized": {
+            "xmin": 396.0,
+            "xmax": 477.0,
+            "ymin": 212.0300751879699,
+            "ymax": 243.60902255639095
+        }
+    },
+    "Cars52": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "226",
+            "ymin": "181",
+            "xmax": "327",
+            "ymax": "210"
+        },
+        "bndbox_resized": {
+            "xmin": 339.0,
+            "xmax": 490.5,
+            "ymin": 241.33333333333331,
+            "ymax": 280.0
+        }
+    },
+    "Cars53": {
+        "size": {
+            "width": "400",
+            "height": "288",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "146",
+            "ymin": "187",
+            "xmax": "260",
+            "ymax": "213"
+        },
+        "bndbox_resized": {
+            "xmin": 219.0,
+            "xmax": 390.0,
+            "ymin": 259.72222222222223,
+            "ymax": 295.8333333333333
+        }
+    },
+    "Cars54": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "148",
+            "ymin": "61",
+            "xmax": "257",
+            "ymax": "118"
+        },
+        "bndbox_resized": {
+            "xmin": 222.0,
+            "xmax": 385.5,
+            "ymin": 81.33333333333333,
+            "ymax": 157.33333333333331
+        }
+    },
+    "Cars55": {
+        "size": {
+            "width": "400",
+            "height": "299",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "143",
+            "ymin": "171",
+            "xmax": "210",
+            "ymax": "208"
+        },
+        "bndbox_resized": {
+            "xmin": 214.5,
+            "xmax": 315.0,
+            "ymin": 228.76254180602007,
+            "ymax": 278.2608695652174
+        }
+    },
+    "Cars56": {
+        "size": {
+            "width": "400",
+            "height": "192",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "87",
+            "ymin": "82",
+            "xmax": "339",
+            "ymax": "146"
+        },
+        "bndbox_resized": {
+            "xmin": 130.5,
+            "xmax": 508.5,
+            "ymin": 170.83333333333334,
+            "ymax": 304.1666666666667
+        }
+    },
+    "Cars57": {
+        "size": {
+            "width": "431",
+            "height": "242",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "270",
+            "ymin": "162",
+            "xmax": "321",
+            "ymax": "195"
+        },
+        "bndbox_resized": {
+            "xmin": 375.87006960556846,
+            "xmax": 446.8677494199536,
+            "ymin": 267.7685950413223,
+            "ymax": 322.3140495867769
+        }
+    },
+    "Cars58": {
+        "size": {
+            "width": "400",
+            "height": "247",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "154",
+            "ymin": "166",
+            "xmax": "241",
+            "ymax": "187"
+        },
+        "bndbox_resized": {
+            "xmin": 231.0,
+            "xmax": 361.5,
+            "ymin": 268.82591093117406,
+            "ymax": 302.83400809716596
+        }
+    },
+    "Cars59": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "324",
+            "ymin": "162",
+            "xmax": "375",
+            "ymax": "175"
+        },
+        "bndbox_resized": {
+            "xmin": 486.0,
+            "xmax": 562.5,
+            "ymin": 216.0,
+            "ymax": 233.33333333333331
+        }
+    },
+    "Cars6": {
+        "size": {
+            "width": "500",
+            "height": "375",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "112",
+            "ymin": "114",
+            "xmax": "373",
+            "ymax": "239"
+        },
+        "bndbox_resized": {
+            "xmin": 134.4,
+            "xmax": 447.59999999999997,
+            "ymin": 121.6,
+            "ymax": 254.93333333333334
+        }
+    },
+    "Cars60": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "45",
+            "ymin": "98",
+            "xmax": "364",
+            "ymax": "159"
+        },
+        "bndbox_resized": {
+            "xmin": 67.5,
+            "xmax": 546.0,
+            "ymin": 130.66666666666666,
+            "ymax": 212.0
+        }
+    },
+    "Cars61": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "71",
+            "ymin": "124",
+            "xmax": "198",
+            "ymax": "231"
+        },
+        "bndbox_resized": {
+            "xmin": 106.5,
+            "xmax": 297.0,
+            "ymin": 165.33333333333331,
+            "ymax": 308.0
+        }
+    },
+    "Cars62": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "156",
+            "ymin": "110",
+            "xmax": "243",
+            "ymax": "159"
+        },
+        "bndbox_resized": {
+            "xmin": 234.0,
+            "xmax": 364.5,
+            "ymin": 146.66666666666666,
+            "ymax": 212.0
+        }
+    },
+    "Cars63": {
+        "size": {
+            "width": "400",
+            "height": "266",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "54",
+            "ymin": "201",
+            "xmax": "91",
+            "ymax": "226"
+        },
+        "bndbox_resized": {
+            "xmin": 81.0,
+            "xmax": 136.5,
+            "ymin": 302.25563909774434,
+            "ymax": 339.84962406015035
+        }
+    },
+    "Cars64": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "120",
+            "ymin": "187",
+            "xmax": "325",
+            "ymax": "220"
+        },
+        "bndbox_resized": {
+            "xmin": 180.0,
+            "xmax": 487.5,
+            "ymin": 280.1498127340824,
+            "ymax": 329.58801498127343
+        }
+    },
+    "Cars65": {
+        "size": {
+            "width": "520",
+            "height": "424",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "207",
+            "ymin": "200",
+            "xmax": "300",
+            "ymax": "260"
+        },
+        "bndbox_resized": {
+            "xmin": 238.8461538461538,
+            "xmax": 346.15384615384613,
+            "ymin": 188.67924528301887,
+            "ymax": 245.28301886792454
+        }
+    },
+    "Cars66": {
+        "size": {
+            "width": "400",
+            "height": "299",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "144",
+            "ymin": "170",
+            "xmax": "211",
+            "ymax": "202"
+        },
+        "bndbox_resized": {
+            "xmin": 216.0,
+            "xmax": 316.5,
+            "ymin": 227.4247491638796,
+            "ymax": 270.2341137123746
+        }
+    },
+    "Cars67": {
+        "size": {
+            "width": "553",
+            "height": "275",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "189",
+            "ymin": "223",
+            "xmax": "328",
+            "ymax": "248"
+        },
+        "bndbox_resized": {
+            "xmin": 205.0632911392405,
+            "xmax": 355.877034358047,
+            "ymin": 324.3636363636364,
+            "ymax": 360.72727272727275
+        }
+    },
+    "Cars68": {
+        "size": {
+            "width": "400",
+            "height": "268",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "189",
+            "ymin": "142",
+            "xmax": "245",
+            "ymax": "171"
+        },
+        "bndbox_resized": {
+            "xmin": 283.5,
+            "xmax": 367.5,
+            "ymin": 211.9402985074627,
+            "ymax": 255.22388059701495
+        }
+    },
+    "Cars69": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "77",
+            "ymin": "150",
+            "xmax": "124",
+            "ymax": "175"
+        },
+        "bndbox_resized": {
+            "xmin": 115.5,
+            "xmax": 186.0,
+            "ymin": 224.71910112359552,
+            "ymax": 262.17228464419475
+        }
+    },
+    "Cars7": {
+        "size": {
+            "width": "400",
+            "height": "279",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "166",
+            "ymin": "141",
+            "xmax": "206",
+            "ymax": "154"
+        },
+        "bndbox_resized": {
+            "xmin": 249.0,
+            "xmax": 309.0,
+            "ymin": 202.1505376344086,
+            "ymax": 220.7885304659498
+        }
+    },
+    "Cars70": {
+        "size": {
+            "width": "400",
+            "height": "226",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "179",
+            "ymin": "115",
+            "xmax": "213",
+            "ymax": "133"
+        },
+        "bndbox_resized": {
+            "xmin": 268.5,
+            "xmax": 319.5,
+            "ymin": 203.53982300884957,
+            "ymax": 235.39823008849558
+        }
+    },
+    "Cars71": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "86",
+            "ymin": "150",
+            "xmax": "125",
+            "ymax": "161"
+        },
+        "bndbox_resized": {
+            "xmin": 129.0,
+            "xmax": 187.5,
+            "ymin": 266.66666666666663,
+            "ymax": 286.22222222222223
+        }
+    },
+    "Cars72": {
+        "size": {
+            "width": "400",
+            "height": "332",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "156",
+            "ymin": "182",
+            "xmax": "255",
+            "ymax": "208"
+        },
+        "bndbox_resized": {
+            "xmin": 234.0,
+            "xmax": 382.5,
+            "ymin": 219.27710843373495,
+            "ymax": 250.60240963855424
+        }
+    },
+    "Cars73": {
+        "size": {
+            "width": "400",
+            "height": "225",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "119",
+            "ymin": "22",
+            "xmax": "283",
+            "ymax": "69"
+        },
+        "bndbox_resized": {
+            "xmin": 178.5,
+            "xmax": 424.5,
+            "ymin": 39.11111111111111,
+            "ymax": 122.66666666666666
+        }
+    },
+    "Cars74": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "115",
+            "ymin": "115",
+            "xmax": "277",
+            "ymax": "153"
+        },
+        "bndbox_resized": {
+            "xmin": 172.5,
+            "xmax": 415.5,
+            "ymin": 172.28464419475657,
+            "ymax": 229.21348314606743
+        }
+    },
+    "Cars75": {
+        "size": {
+            "width": "400",
+            "height": "248",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "209",
+            "ymin": "196",
+            "xmax": "218",
+            "ymax": "201"
+        },
+        "bndbox_resized": {
+            "xmin": 313.5,
+            "xmax": 327.0,
+            "ymin": 316.1290322580645,
+            "ymax": 324.19354838709677
+        }
+    },
+    "Cars76": {
+        "size": {
+            "width": "480",
+            "height": "360",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "6",
+            "ymin": "114",
+            "xmax": "470",
+            "ymax": "233"
+        },
+        "bndbox_resized": {
+            "xmin": 7.5,
+            "xmax": 587.5,
+            "ymin": 126.66666666666667,
+            "ymax": 258.8888888888889
+        }
+    },
+    "Cars77": {
+        "size": {
+            "width": "400",
+            "height": "270",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "229",
+            "ymin": "151",
+            "xmax": "309",
+            "ymax": "178"
+        },
+        "bndbox_resized": {
+            "xmin": 343.5,
+            "xmax": 463.5,
+            "ymin": 223.7037037037037,
+            "ymax": 263.7037037037037
+        }
+    },
+    "Cars78": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "149",
+            "ymin": "210",
+            "xmax": "249",
+            "ymax": "239"
+        },
+        "bndbox_resized": {
+            "xmin": 223.5,
+            "xmax": 373.5,
+            "ymin": 280.0,
+            "ymax": 318.66666666666663
+        }
+    },
+    "Cars79": {
+        "size": {
+            "width": "600",
+            "height": "531",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "238",
+            "ymin": "363",
+            "xmax": "350",
+            "ymax": "422"
+        },
+        "bndbox_resized": {
+            "xmin": 238.0,
+            "xmax": 350.0,
+            "ymin": 273.44632768361583,
+            "ymax": 317.89077212806023
+        }
+    },
+    "Cars8": {
+        "size": {
+            "width": "500",
+            "height": "232",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "204",
+            "ymin": "104",
+            "xmax": "304",
+            "ymax": "134"
+        },
+        "bndbox_resized": {
+            "xmin": 244.79999999999998,
+            "xmax": 364.8,
+            "ymin": 179.3103448275862,
+            "ymax": 231.03448275862067
+        }
+    },
+    "Cars80": {
+        "size": {
+            "width": "400",
+            "height": "295",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "94",
+            "ymin": "148",
+            "xmax": "279",
+            "ymax": "186"
+        },
+        "bndbox_resized": {
+            "xmin": 141.0,
+            "xmax": 418.5,
+            "ymin": 200.6779661016949,
+            "ymax": 252.20338983050846
+        }
+    },
+    "Cars81": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "297",
+            "ymin": "100",
+            "xmax": "327",
+            "ymax": "125"
+        },
+        "bndbox_resized": {
+            "xmin": 445.5,
+            "xmax": 490.5,
+            "ymin": 133.33333333333331,
+            "ymax": 166.66666666666666
+        }
+    },
+    "Cars82": {
+        "size": {
+            "width": "400",
+            "height": "151",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "190",
+            "ymin": "59",
+            "xmax": "257",
+            "ymax": "77"
+        },
+        "bndbox_resized": {
+            "xmin": 285.0,
+            "xmax": 385.5,
+            "ymin": 156.29139072847684,
+            "ymax": 203.97350993377486
+        }
+    },
+    "Cars83": {
+        "size": {
+            "width": "600",
+            "height": "450",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "251",
+            "ymin": "295",
+            "xmax": "326",
+            "ymax": "341"
+        },
+        "bndbox_resized": {
+            "xmin": 251.0,
+            "xmax": 326.0,
+            "ymin": 262.22222222222223,
+            "ymax": 303.1111111111111
+        }
+    },
+    "Cars84": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "167",
+            "ymin": "201",
+            "xmax": "238",
+            "ymax": "220"
+        },
+        "bndbox_resized": {
+            "xmin": 250.5,
+            "xmax": 357.0,
+            "ymin": 268.0,
+            "ymax": 293.3333333333333
+        }
+    },
+    "Cars85": {
+        "size": {
+            "width": "400",
+            "height": "267",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "313",
+            "ymin": "129",
+            "xmax": "358",
+            "ymax": "141"
+        },
+        "bndbox_resized": {
+            "xmin": 469.5,
+            "xmax": 537.0,
+            "ymin": 193.25842696629215,
+            "ymax": 211.2359550561798
+        }
+    },
+    "Cars86": {
+        "size": {
+            "width": "586",
+            "height": "331",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "332",
+            "ymin": "176",
+            "xmax": "447",
+            "ymax": "204"
+        },
+        "bndbox_resized": {
+            "xmin": 339.93174061433444,
+            "xmax": 457.67918088737196,
+            "ymin": 212.68882175226585,
+            "ymax": 246.52567975830814
+        }
+    },
+    "Cars87": {
+        "size": {
+            "width": "400",
+            "height": "290",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "345",
+            "ymin": "168",
+            "xmax": "365",
+            "ymax": "177"
+        },
+        "bndbox_resized": {
+            "xmin": 517.5,
+            "xmax": 547.5,
+            "ymin": 231.7241379310345,
+            "ymax": 244.13793103448276
+        }
+    },
+    "Cars88": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "168",
+            "ymin": "148",
+            "xmax": "242",
+            "ymax": "171"
+        },
+        "bndbox_resized": {
+            "xmin": 252.0,
+            "xmax": 363.0,
+            "ymin": 197.33333333333331,
+            "ymax": 228.0
+        }
+    },
+    "Cars89": {
+        "size": {
+            "width": "400",
+            "height": "262",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "227",
+            "ymin": "222",
+            "xmax": "253",
+            "ymax": "230"
+        },
+        "bndbox_resized": {
+            "xmin": 340.5,
+            "xmax": 379.5,
+            "ymin": 338.9312977099237,
+            "ymax": 351.14503816793894
+        }
+    },
+    "Cars9": {
+        "size": {
+            "width": "442",
+            "height": "333",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "164",
+            "ymin": "224",
+            "xmax": "272",
+            "ymax": "247"
+        },
+        "bndbox_resized": {
+            "xmin": 222.62443438914028,
+            "xmax": 369.2307692307692,
+            "ymin": 269.0690690690691,
+            "ymax": 296.6966966966967
+        }
+    },
+    "Cars90": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "77",
+            "ymin": "204",
+            "xmax": "101",
+            "ymax": "225"
+        },
+        "bndbox_resized": {
+            "xmin": 115.5,
+            "xmax": 151.5,
+            "ymin": 272.0,
+            "ymax": 300.0
+        }
+    },
+    "Cars91": {
+        "size": {
+            "width": "400",
+            "height": "253",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "269",
+            "ymin": "170",
+            "xmax": "317",
+            "ymax": "189"
+        },
+        "bndbox_resized": {
+            "xmin": 403.5,
+            "xmax": 475.5,
+            "ymin": 268.77470355731225,
+            "ymax": 298.8142292490119
+        }
+    },
+    "Cars92": {
+        "size": {
+            "width": "600",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "281",
+            "ymin": "185",
+            "xmax": "393",
+            "ymax": "271"
+        },
+        "bndbox_resized": {
+            "xmin": 281.0,
+            "xmax": 393.0,
+            "ymin": 185.0,
+            "ymax": 271.0
+        }
+    },
+    "Cars93": {
+        "size": {
+            "width": "400",
+            "height": "251",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "347",
+            "ymin": "122",
+            "xmax": "367",
+            "ymax": "132"
+        },
+        "bndbox_resized": {
+            "xmin": 520.5,
+            "xmax": 550.5,
+            "ymin": 194.4223107569721,
+            "ymax": 210.35856573705178
+        }
+    },
+    "Cars94": {
+        "size": {
+            "width": "400",
+            "height": "319",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "176",
+            "ymin": "210",
+            "xmax": "251",
+            "ymax": "248"
+        },
+        "bndbox_resized": {
+            "xmin": 264.0,
+            "xmax": 376.5,
+            "ymin": 263.3228840125392,
+            "ymax": 310.97178683385584
+        }
+    },
+    "Cars95": {
+        "size": {
+            "width": "600",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "278",
+            "ymin": "182",
+            "xmax": "407",
+            "ymax": "263"
+        },
+        "bndbox_resized": {
+            "xmin": 278.0,
+            "xmax": 407.0,
+            "ymin": 182.0,
+            "ymax": 263.0
+        }
+    },
+    "Cars96": {
+        "size": {
+            "width": "400",
+            "height": "248",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "133",
+            "ymin": "126",
+            "xmax": "261",
+            "ymax": "160"
+        },
+        "bndbox_resized": {
+            "xmin": 199.5,
+            "xmax": 391.5,
+            "ymin": 203.2258064516129,
+            "ymax": 258.06451612903226
+        }
+    },
+    "Cars97": {
+        "size": {
+            "width": "400",
+            "height": "300",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "98",
+            "ymin": "102",
+            "xmax": "297",
+            "ymax": "191"
+        },
+        "bndbox_resized": {
+            "xmin": 147.0,
+            "xmax": 445.5,
+            "ymin": 136.0,
+            "ymax": 254.66666666666666
+        }
+    },
+    "Cars98": {
+        "size": {
+            "width": "370",
+            "height": "400",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "85",
+            "ymin": "196",
+            "xmax": "247",
+            "ymax": "259"
+        },
+        "bndbox_resized": {
+            "xmin": 137.83783783783784,
+            "xmax": 400.5405405405406,
+            "ymin": 196.0,
+            "ymax": 259.0
+        }
+    },
+    "Cars99": {
+        "size": {
+            "width": "375",
+            "height": "500",
+            "depth": "3"
+        },
+        "bndbox": {
+            "xmin": "70",
+            "ymin": "198",
+            "xmax": "262",
+            "ymax": "271"
+        },
+        "bndbox_resized": {
+            "xmin": 112.0,
+            "xmax": 419.20000000000005,
+            "ymin": 158.4,
+            "ymax": 216.8
+        }
+    }
+}
