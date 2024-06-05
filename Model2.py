@@ -9,7 +9,7 @@ from keras.layers import Conv2D, MaxPooling2D, Dense, Flatten
 from sklearn.model_selection import train_test_split
 
 
-for o in range(1, 6):
+for o in range(4, 6):
     # Load the labels from the JSON file
     with open('DatasetCarPlates/labels_resized.json', 'r') as f:
         data = json.load(f)
@@ -24,8 +24,8 @@ for o in range(1, 6):
         # Load images
         image_dir = "DatasetCarPlates/images/"
         image_path = os.path.join(image_dir, car + ".png") 
-        # images[car] = Image.open(image_path).convert('RGB')
-        images[car] = Image.open(image_path).convert('L')
+        images[car] = Image.open(image_path).convert('RGB')
+        # images[car] = Image.open(image_path).convert('L')
         images[car] = images[car].resize((600, 400)) 
         images[car] = np.array(images[car])
         # Load bounding box
@@ -54,7 +54,7 @@ for o in range(1, 6):
 
     # Create model #Compile fit predict model
     model = Sequential([
-        Conv2D(32, (3, 3), activation='relu', input_shape=(400, 600, 1)),
+        Conv2D(32, (3, 3), activation='relu', input_shape=(400, 600, 3)),
         MaxPooling2D((2, 2)),
         Flatten(),
         Dense(64, activation='relu'),
@@ -98,7 +98,7 @@ for o in range(1, 6):
             max_iou = iou
 
     #Writes value to file in folder
-    with open(f'Model2_Greyscale\Model2_Test{o}_Greyscale\!Values_IOU.txt', 'w') as f:
+    with open(f'Model2_RGB\Model2_Test{o}_RGB\!Values_IOU.txt', 'w') as f:
         f.write("Average IOU values:\n")
         f.write(str(average_iou_lst) + '\n')
         f.write("Average: " + str(sum(average_iou_lst) / len(average_iou_lst)) + " %\n")
@@ -110,7 +110,7 @@ for o in range(1, 6):
     for pred, true, image_array in zip(predicted_bboxes, y_test, X_test):
         predicted_image = Image.fromarray(image_array.astype('uint8'))
         fig, ax = plt.subplots()
-        ax.imshow(predicted_image, cmap='gray')
+        ax.imshow(predicted_image)
 
         # Define rectangle arguments
         xmin1 = true[0]
@@ -136,5 +136,6 @@ for o in range(1, 6):
         ax.add_patch(rect_predicted)
         ax.add_patch(rect_true)
 
-        plt.savefig(f'Model2_Greyscale\Model2_Test{o}_Greyscale\Cars{Counter}.png')
+        plt.savefig(f'Model2_RGB\Model2_Test{o}_RGB\Cars{Counter}.png')
+        plt.close()
         Counter += 1
