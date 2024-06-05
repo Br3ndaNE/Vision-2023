@@ -24,6 +24,7 @@ for i in range(433):
     image_dir = "DatasetCarPlates/images/"
     image_path = os.path.join(image_dir, car + ".png") 
     images[car] = Image.open(image_path).convert('RGB')
+    # images[car] = Image.open(image_path).convert('L')
     images[car] = images[car].resize((600, 400))  # Ensure all images have the same size
     images[car] = np.array(images[car])
     # Load bounding box
@@ -110,11 +111,17 @@ for pred, true in zip(predicted_bboxes, y_test):
     if(iou > max_iou):
         max_iou = iou
 
-#Prints average IOU / Prints Max IOU
-print(average_iou_lst)
-print("average",(sum(average_iou_lst) / 130), "%")
-print("Max:",max_iou, "%")
+with open('Model1_Test5_RGB\!Values_IOU.txt', 'w') as f:
+    # Write average IOU values
+    f.write("Average IOU values:\n")
+    f.write(str(average_iou_lst) + '\n')
+    f.write("Average: " + str(sum(average_iou_lst) / len(average_iou_lst)) + " %\n")
+    
+    # Write max IOU value
+    f.write("Max IOU:\n")
+    f.write(str(max_iou) + " %\n")
 
+Counter = 0
 for pred, true, image_array in zip(predicted_bboxes, y_test, X_test):
     #Load image that has been predicted
     predicted_image = Image.fromarray(image_array.astype('uint8'))
@@ -147,4 +154,5 @@ for pred, true, image_array in zip(predicted_bboxes, y_test, X_test):
     ax.add_patch(rect_true)
 
     #prints iou value for every picture and shows plot
-    plt.show()
+    plt.savefig(f'Model1_Test5_RGB\Cars{Counter}.png')
+    Counter += 1
